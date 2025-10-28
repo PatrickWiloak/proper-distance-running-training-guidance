@@ -112,6 +112,8 @@ You can progress by increasing:
 
 **Periodization divides training into distinct phases, each with specific goals.**
 
+Periodization was originally developed by Soviet sports scientists and has become a cornerstone of modern endurance training.[1] The concept systematically varies training volume, intensity, and specificity to optimize performance and prevent overtraining.
+
 ### Macrocycle (6-12 months)
 The entire training period from base building to goal race and recovery.
 
@@ -309,6 +311,16 @@ Individual training weeks.
 - Sustain improvement over years, not just months
 
 **Remember:** Running is a long-term sport. Patient, consistent progression beats aggressive, chaotic training every time.
+
+---
+
+## References
+
+[1] Bompa, T. O., & Haff, G. G. (2009). *Periodization: Theory and Methodology of Training*. Human Kinetics.
+
+[2] Issurin, V. B. (2010). "New horizons for the methodology and physiology of training periodization." *Sports Medicine*, 40(3), 189-206. DOI: 10.2165/11319770-000000000-00000
+
+[3] Lorenz, D. S., et al. (2010). "Periodization: Current review and suggested implementation for athletic rehabilitation." *Sports Health*, 2(6), 509-518. [PMC3438871](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3438871/)
 
 ---
 

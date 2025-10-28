@@ -123,9 +123,10 @@ After 3 weeks of building volume/intensity, take a recovery week:
 
 **1. Sleep**
 - Most important recovery tool
-- 7-9 hours per night
+- 7-9 hours per night minimum; athletes may benefit from 9-10 hours[1]
 - Consistent sleep schedule
 - Quality matters as much as quantity
+- Sleep deprivation impairs glycogen synthesis, muscle recovery, and performance[2]
 
 **2. Nutrition**
 - Post-run: Protein + carbs within 30-60 minutes
@@ -223,12 +224,14 @@ After 3 weeks of building volume/intensity, take a recovery week:
 
 **Severe, chronic under-recovery can lead to overtraining syndrome:**
 
+Overtraining syndrome (OTS) is a serious condition characterized by prolonged performance decrements and persistent fatigue, affecting an estimated 10-20% of elite athletes at some point.[3] It can take months to fully recover from OTS.
+
 Symptoms:
 - Performance decline lasting weeks/months
 - Persistent fatigue
-- Hormonal disruptions
+- Hormonal disruptions (altered cortisol, testosterone)
 - Mood disturbances
-- Frequent illness
+- Frequent illness (suppressed immune function)[4]
 - Requires weeks to months to fully recover
 
 **Prevention is key:** Respect recovery, follow hard/easy principle, take down weeks.
@@ -244,6 +247,18 @@ Symptoms:
 7. **Recovery is not weakness - it's essential to improvement**
 
 **Remember:** Your training is only as good as your recovery allows. Rest is when you get faster.
+
+---
+
+## References
+
+[1] Halson, S. L. (2014). "Sleep in elite athletes and nutritional interventions to enhance sleep." *Sports Medicine*, 44(Suppl 1), S13-S23. [PMC4008810](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4008810/)
+
+[2] Dattilo, M., et al. (2011). "Sleep and muscle recovery: endocrinological and molecular basis for a new and promising hypothesis." *Medical Hypotheses*, 77(2), 220-222. DOI: 10.1016/j.mehy.2011.04.017
+
+[3] Meeusen, R., et al. (2013). "Prevention, diagnosis, and treatment of the overtraining syndrome: joint consensus statement of the European College of Sport Science and the American College of Sports Medicine." *Medicine and Science in Sports and Exercise*, 45(1), 186-205. DOI: 10.1249/MSS.0b013e318279a10a
+
+[4] Budgett, R. (1998). "Fatigue and underperformance in athletes: the overtraining syndrome." *British Journal of Sports Medicine*, 32(2), 107-110. [PMC1756068](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1756068/)
 
 ---
 

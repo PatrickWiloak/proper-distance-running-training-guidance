@@ -1,6 +1,6 @@
 # Training Principles
 
-Understanding these core principles will help you evaluate any training plan and understand why certain approaches work.
+Understanding these core principles will help you evaluate any training plan and understand why certain approaches work. These principles are grounded in exercise physiology and supported by decades of scientific research.
 
 ## The Fundamental Principles
 
@@ -18,7 +18,9 @@ Understanding these core principles will help you evaluate any training plan and
 
 **To improve, you must gradually increase training stress over time.**
 
-- Increase mileage by no more than 10% per week
+Progressive overload is a fundamental principle of exercise science, first formally described by DeLorme in 1945 for strength training and later applied to endurance training.[1]
+
+- Increase mileage by no more than 10% per week (the "10% rule" is supported by injury prevention research)[2]
 - Add intensity carefully - don't increase both volume and intensity simultaneously
 - Your body needs a reason to adapt; if training stays the same, fitness plateaus
 
@@ -27,6 +29,8 @@ Understanding these core principles will help you evaluate any training plan and
 ### 3. Adaptation
 
 **Fitness improvements happen during recovery, not during the workout itself.**
+
+This principle is based on Hans Selye's General Adaptation Syndrome (GAS), which describes how organisms respond to stress through alarm, resistance, and adaptation phases.[3] In endurance training, this manifests as supercompensation.
 
 - Hard workouts create stress and damage
 - Rest allows your body to repair and rebuild stronger
@@ -38,6 +42,8 @@ Understanding these core principles will help you evaluate any training plan and
 ### 4. Reversibility (Use It or Lose It)
 
 **Fitness is lost when training stops or decreases significantly.**
+
+Research shows that VO₂max can decline by 4-14% after 4 weeks of detraining, with measurable decreases beginning within 2 weeks.[4] The principle of reversibility underscores the importance of consistency in endurance training.
 
 - Aerobic fitness declines within 2 weeks of inactivity
 - Significant losses occur after 4-6 weeks off
@@ -99,6 +105,18 @@ Understanding these core principles will help you evaluate any training plan and
 - Consistency beats intensity
 - Respect recovery as much as hard training
 - Individualize your approach based on your response to training
+
+---
+
+## References
+
+[1] DeLorme, T. L. (1945). "Restoration of muscle power by heavy-resistance exercises." *Journal of Bone and Joint Surgery*, 27(4), 645-667.
+
+[2] Nielsen, R. O., et al. (2012). "Training errors and running related injuries: a systematic review." *International Journal of Sports Physical Therapy*, 7(1), 58-75. [PMC3273886](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3273886/)
+
+[3] Selye, H. (1950). "Stress and the general adaptation syndrome." *British Medical Journal*, 1(4667), 1383-1392. [PMC2038162](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2038162/)
+
+[4] Mujika, I., & Padilla, S. (2000). "Detraining: loss of training-induced physiological and performance adaptations. Part I." *Sports Medicine*, 30(2), 79-87. DOI: 10.2165/00007256-200030020-00002
 
 ---
 

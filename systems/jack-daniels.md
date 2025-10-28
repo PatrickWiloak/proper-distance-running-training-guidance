@@ -7,15 +7,16 @@ One of the most respected and scientifically-grounded training systems in distan
 **Dr. Jack Tupper Daniels** is an exercise physiologist and legendary running coach:
 - Olympic modern pentathlete (1956, 1960)
 - Coach of multiple Olympic runners
-- PhD in exercise physiology
-- Developed the VDOT system
-- Author of *Daniels' Running Formula* (first published 1998, multiple editions)
+- PhD in exercise physiology from University of Wisconsin-Madison
+- Developed the VDOT system based on extensive research
+- Author of *Daniels' Running Formula* (first published 1998, multiple editions)[1]
+- Named "World's Best Running Coach" by Runner's World magazine
 
 **Why trust this system:**
-- Based on decades of research and coaching
+- Based on decades of peer-reviewed research and practical coaching experience
 - Used by elite and recreational runners worldwide
-- Scientifically validated training paces
-- Flexible and adaptable
+- Scientifically validated training paces grounded in exercise physiology
+- Flexible and adaptable to individual needs
 
 ## The VDOT System
 
@@ -433,6 +434,16 @@ Jack Daniels organizes training into distinct phases:
 7. **Update regularly** - Recalculate VDOT after key races
 
 **Remember:** Jack Daniels' system gives you the "what" and "how fast" for training. Combined with the fundamentals you've learned, you have everything you need to train effectively.
+
+---
+
+## References
+
+[1] Daniels, J. (2013). *Daniels' Running Formula* (3rd ed.). Human Kinetics. - The definitive guide to the VDOT system and scientifically-based training.
+
+[2] Daniels, J., & Gilbert, J. (1979). "Oxygen Power: Performance Tables for Distance Runners." *Tafnews Press*. - Original research establishing the VDOT methodology.
+
+[3] [Wikipedia: Jack Daniels (coach)](https://en.wikipedia.org/wiki/Jack_Daniels_(coach)) - Biography and overview of contributions to running science.
 
 ---
 

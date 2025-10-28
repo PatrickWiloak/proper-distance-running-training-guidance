@@ -197,6 +197,8 @@ Training by heart rate helps you run at the right intensity for each workout. Un
 
 **HRV measures the variation in time between heartbeats.**
 
+HRV is regulated by the autonomic nervous system and reflects the balance between sympathetic (fight-or-flight) and parasympathetic (rest-and-digest) activity. Research shows HRV is a valuable tool for monitoring training load and recovery status in athletes.[1][2]
+
 - **High HRV:** Well-recovered, ready for hard training
 - **Low HRV:** Fatigued, stressed, need recovery
 
@@ -318,6 +320,18 @@ Training by heart rate helps you run at the right intensity for each workout. Un
 7. **Be patient** - Lower HR at same pace = you're getting fitter
 
 **Remember:** Heart rate is a tool to help you train smarter. The goal is to learn what each intensity feels like, then run by effort while using HR to confirm you're in the right zone.
+
+---
+
+## References
+
+[1] Plews, D. J., et al. (2013). "Training adaptation and heart rate variability in elite endurance athletes." *International Journal of Sports Physiology and Performance*, 8(5), 512-521. DOI: 10.1123/ijspp.8.5.512
+
+[2] Buchheit, M. (2014). "Monitoring training status with HR measures: do all roads lead to Rome?" *Frontiers in Physiology*, 5, 73. [PMC3934240](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3934240/)
+
+[3] Karvonen, M. J., et al. (1957). "The effects of training on heart rate: a longitudinal study." *Annales Medicinae Experimentalis et Biologiae Fenniae*, 35(3), 307-315.
+
+[4] Roy, B. D., & Tarnopolsky, M. A. (1998). "Influence of differing macronutrient intakes on muscle glycogen resynthesis after resistance exercise." *Journal of Applied Physiology*, 84(3), 890-896. DOI: 10.1152/jappl.1998.84.3.890
 
 ---
 

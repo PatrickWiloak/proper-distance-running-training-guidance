@@ -452,6 +452,20 @@ Now that you understand the fundamentals and two major training systems (Jack Da
 
 ---
 
+## References
+
+Both Jack Daniels and McMillan systems are based on sound exercise physiology principles. For deeper understanding of the scientific foundations:
+
+[1] Daniels, J. (2013). *Daniels' Running Formula* (3rd ed.). Human Kinetics.
+
+[2] McMillan, G. (2010). *You (Only Faster)*. Greg McMillan.
+
+[3] Seiler, S. (2010). "What is best practice for training intensity and duration distribution in endurance athletes?" *International Journal of Sports Physiology and Performance*, 5(3), 276-291.
+
+[4] [Wikipedia: Training periodization](https://en.wikipedia.org/wiki/Sports_periodization) - Overview of periodization principles used in both systems.
+
+---
+
 **Congratulations!** You now have a comprehensive understanding of proper distance running training. Use this knowledge, choose a system that works for you, train consistently, and you'll achieve your goals.
 
 **Now go run!**

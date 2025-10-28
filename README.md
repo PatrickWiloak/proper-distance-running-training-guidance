@@ -43,11 +43,37 @@ This repository is paired with a video tutorial series that explains each concep
 
 Found an error or have a suggestion? Feel free to open an issue or submit a pull request.
 
-## Resources
+## Scientific Foundation
 
-- [Jack Daniels' Running Formula (Book)](https://www.amazon.com/Daniels-Running-Formula-Jack/dp/1450431836)
-- [McMillan Running Calculator](https://www.mcmillanrunning.com)
-- Scientific papers and additional references listed in each section
+This guide is grounded in peer-reviewed exercise physiology research and evidence-based coaching practices. Each section includes citations to medical journals, scientific publications, and authoritative sources.
+
+### Key Research Areas Covered:
+
+- **Training Intensity Distribution**: Polarized training and the 80/20 principle
+- **Aerobic Adaptations**: Mitochondrial biogenesis, capillary density, and metabolic changes
+- **Lactate Threshold**: Metabolic markers and threshold training effectiveness
+- **VO₂max and Running Economy**: Determinants of endurance performance
+- **Recovery Science**: Sleep, overtraining syndrome, and adaptation physiology
+- **Periodization**: Training phase organization and progression principles
+
+### Primary Sources:
+
+**Books:**
+- Daniels, J. (2013). *Daniels' Running Formula* (3rd ed.). Human Kinetics.
+- McMillan, G. (2010). *You (Only Faster)*. Greg McMillan.
+- Bompa, T. O., & Haff, G. G. (2009). *Periodization: Theory and Methodology of Training*. Human Kinetics.
+
+**Key Research Papers:**
+- Seiler, S. (2010). "What is best practice for training intensity and duration distribution in endurance athletes?" *International Journal of Sports Physiology and Performance*, 5(3), 276-291.
+- Bassett, D. R., & Howley, E. T. (2000). "Limiting factors for maximum oxygen uptake and determinants of endurance performance." *Medicine and Science in Sports and Exercise*, 32(1), 70-84.
+- Billat, V. L. (2001). "Interval training for performance: a scientific and empirical practice." *Sports Medicine*, 31(1), 13-31.
+
+**Online Resources:**
+- [McMillan Running Calculator](https://www.mcmillanrunning.com) - Training pace calculator
+- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) - Free access to biomedical research
+- Wikipedia articles on exercise physiology topics (referenced throughout)
+
+**Note:** Complete references are provided at the end of each section throughout this guide.
 
 ---
 

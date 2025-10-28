@@ -532,4 +532,14 @@ McMillan organizes training into three interconnected systems:
 
 ---
 
+## References
+
+[1] McMillan, G. (2010). *You (Only Faster): The Runner's Bible for Getting Faster*. Greg McMillan.
+
+[2] [McMillan Running Calculator](https://www.mcmillanrunning.com) - Free online tool for determining training paces based on race performance.
+
+[3] [Wikipedia: Training pace](https://en.wikipedia.org/wiki/Training_pace) - Overview of different training pace methodologies including McMillan's approach.
+
+---
+
 **Next:** [Comparing Training Systems](./comparison.md)

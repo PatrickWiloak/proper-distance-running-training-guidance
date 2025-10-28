@@ -6,6 +6,8 @@ Your lactate threshold is the single most important physiological marker for dis
 
 **Lactate threshold (LT) is the exercise intensity at which lactate begins to accumulate in your blood faster than your body can clear it.**
 
+The lactate threshold represents a metabolic inflection point and is one of the most important predictors of endurance performance.[1] It's highly trainable and responds well to targeted training interventions.[2]
+
 ### The Simple Explanation:
 
 - At easy paces, your body produces small amounts of lactate and clears it easily
@@ -374,6 +376,18 @@ Your lactate threshold is the single most important physiological marker for dis
 7. **Patience pays off** - consistent threshold training over months and years yields best results
 
 **Remember:** Your lactate threshold determines your race paces. Raise your threshold, and everything gets faster. Focus on tempo runs, but support them with plenty of easy mileage.
+
+---
+
+## References
+
+[1] Faude, O., et al. (2009). "Lactate threshold concepts: how valid are they?" *Sports Medicine*, 39(6), 469-490. DOI: 10.2165/00007256-200939060-00003
+
+[2] Billat, V. L., et al. (2003). "Training and bioenergetic characteristics in elite male and female Kenyan runners." *Medicine and Science in Sports and Exercise*, 35(2), 297-304. DOI: 10.1249/01.MSS.0000053556.59992.A9
+
+[3] Jones, A. M., & Doust, J. H. (1998). "The validity of the lactate minimum test for determination of the maximal lactate steady state." *Medicine and Science in Sports and Exercise*, 30(8), 1304-1313.
+
+[4] [Wikipedia: Lactate Threshold](https://en.wikipedia.org/wiki/Lactate_threshold) - Comprehensive overview of lactate threshold physiology and testing methods.
 
 ---
 

@@ -59,6 +59,8 @@ Every training plan includes different types of runs, each serving a specific pu
 
 **Purpose:** Improve lactate threshold - the pace you can sustain for ~60 minutes
 
+Lactate threshold training is one of the most effective methods for improving endurance performance, as it raises the exercise intensity at which lactate begins to accumulate in the blood.[1]
+
 **Characteristics:**
 - "Comfortably hard" pace
 - About 80-90% of max heart rate
@@ -91,6 +93,8 @@ Every training plan includes different types of runs, each serving a specific pu
 ### 4. Interval Training (VO2 Max Intervals)
 
 **Purpose:** Improve maximal oxygen uptake and running economy
+
+VO₂max intervals are designed to stress the cardiovascular system maximally, leading to improvements in maximal oxygen uptake - a key predictor of endurance performance.[2] These workouts typically elicit VO₂max within 2-3 minutes and maintain it for the duration of the interval.
 
 **Characteristics:**
 - Hard effort (5K pace or slightly faster)
@@ -206,6 +210,16 @@ Every training plan includes different types of runs, each serving a specific pu
 3. **Hard workouts should be hard enough** - but not so hard you can't recover
 4. **Variety is essential** - your body needs different stimuli to improve all systems
 5. **Most of your running should be easy** - 70-80% easy, 20-30% hard
+
+---
+
+## References
+
+[1] Billat, V. L. (2001). "Interval training for performance: a scientific and empirical practice." *Sports Medicine*, 31(1), 13-31. DOI: 10.2165/00007256-200131010-00002
+
+[2] Midgley, A. W., et al. (2006). "Training to enhance the physiological determinants of long-distance running performance." *Sports Medicine*, 36(2), 117-132. DOI: 10.2165/00007256-200636020-00002
+
+[3] Daniels, J., & Gilbert, J. (1979). "Oxygen Power: Performance Tables for Distance Runners." Tafnews Press.
 
 ---
 

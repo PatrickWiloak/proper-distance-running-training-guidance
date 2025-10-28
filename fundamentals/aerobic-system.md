@@ -27,30 +27,37 @@ When you train aerobically (easy running), your body makes these adaptations:
 - More blood vessels reach your muscle fibers
 - Better oxygen delivery to working muscles
 - More efficient waste removal
+- Endurance training can increase capillary density by 20-50% in trained muscles[3]
 
 ### 2. Mitochondrial Growth
 - Mitochondria are the "powerhouses" of cells
 - More mitochondria = more aerobic energy production
 - Better fat oxidation
+- Aerobic training increases mitochondrial volume density and oxidative enzyme activity[4]
 
 ### 3. Increased Blood Volume
 - More total blood in your system
 - Greater stroke volume (blood per heartbeat)
 - Lower heart rate at any given pace
+- Endurance athletes can have 20-25% greater blood volume than sedentary individuals[5]
 
 ### 4. Enhanced Fat Oxidation
 - Body becomes better at burning fat for fuel
 - Spares glycogen (carbohydrate stores)
 - Critical for marathon and longer distances
+- Training increases maximal fat oxidation rates by 30-100%[6]
 
 ### 5. Improved Running Economy
 - More efficient movement patterns
 - Less energy wasted per mile
 - Better neuromuscular coordination
+- Running economy improvements of 2-8% are typical with proper training[7]
 
 ## The 80/20 Rule
 
 **Research consistently shows: 80% of training should be easy (aerobic), 20% hard.**
+
+This principle is supported by extensive research on elite endurance athletes. Studies by Stephen Seiler show that world-class runners, cyclists, and cross-country skiers consistently train at a polarized intensity distribution: approximately 80% low intensity, with the remaining 20% at moderate to high intensity.[1][2]
 
 This applies to elite and recreational runners alike:
 - Olympic marathoners do 80%+ of miles easy
@@ -167,6 +174,24 @@ That's normal, especially for beginners. Easy running feels easy. Be patient - y
 - Don't skip this step - trying to build speed without an aerobic base leads to injury and stagnation
 
 **Remember:** Champions aren't built in hard workouts. They're built in the thousands of easy miles that create the physiological adaptations needed to race fast.
+
+---
+
+## References
+
+[1] Seiler, S. (2010). "What is best practice for training intensity and duration distribution in endurance athletes?" *International Journal of Sports Physiology and Performance*, 5(3), 276-291. DOI: 10.1123/ijspp.5.3.276
+
+[2] Stöggl, T. L., & Sperlich, B. (2015). "The training intensity distribution among well-trained and elite endurance athletes." *Frontiers in Physiology*, 6, 295. [PMC4585392](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4585392/)
+
+[3] Hudlicka, O., et al. (1992). "Angiogenesis in skeletal and cardiac muscle." *Physiological Reviews*, 72(2), 369-417. DOI: 10.1152/physrev.1992.72.2.369
+
+[4] Holloszy, J. O., & Coyle, E. F. (1984). "Adaptations of skeletal muscle to endurance exercise and their metabolic consequences." *Journal of Applied Physiology*, 56(4), 831-838. DOI: 10.1152/jappl.1984.56.4.831
+
+[5] Convertino, V. A. (1991). "Blood volume: its adaptation to endurance training." *Medicine and Science in Sports and Exercise*, 23(12), 1338-1348. [PubMed](https://pubmed.ncbi.nlm.nih.gov/1798377/)
+
+[6] Jeukendrup, A. E. (2002). "Regulation of fat metabolism in skeletal muscle." *Annals of the New York Academy of Sciences*, 967, 217-235. DOI: 10.1111/j.1749-6632.2002.tb04278.x
+
+[7] Jones, A. M. (2006). "The physiology of the world record holder for the women's marathon." *International Journal of Sports Science & Coaching*, 1(2), 101-116. DOI: 10.1260/174795406777641258
 
 ---
 

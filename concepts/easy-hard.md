@@ -58,6 +58,8 @@ The most important principle in training: make your easy days easy and your hard
 - 10-20% at high intensity (hard)
 - Very little at moderate intensity
 
+Research by Stephen Seiler analyzing elite endurance athletes across multiple sports consistently demonstrates this polarized intensity distribution, showing it's a universal characteristic of world-class training.[1][2]
+
 **Examples:**
 
 **Kenyan distance runners:**
@@ -343,6 +345,16 @@ The most important principle in training: make your easy days easy and your hard
 6. **Trust the process** - feels counterintuitive but works
 
 **Remember:** Running is simple but not easy. Easy runs feel too easy. Hard runs feel hard. If you get this right, everything else falls into place.
+
+---
+
+## References
+
+[1] Seiler, S., & Kjerland, G. Ø. (2006). "Quantifying training intensity distribution in elite endurance athletes: is there evidence for an optimal distribution?" *Scandinavian Journal of Medicine & Science in Sports*, 16(1), 49-56. DOI: 10.1111/j.1600-0838.2004.00418.x
+
+[2] Stöggl, T. L., & Sperlich, B. (2015). "The training intensity distribution among well-trained and elite endurance athletes." *Frontiers in Physiology*, 6, 295. [PMC4585392](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4585392/)
+
+[3] [Wikipedia: Polarized Training](https://en.wikipedia.org/wiki/High-intensity_interval_training#Polarized_training) - Overview of polarized training methodology.
 
 ---
 
