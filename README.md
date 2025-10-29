@@ -29,11 +29,80 @@ Once you understand the fundamentals, these evidence-based systems can guide you
 - **[McMillan Running](./systems/mcmillan.md)** - Race-specific training approaches
 - **[Comparison and How to Choose](./systems/comparison.md)** - Which system is right for you
 
+## 🚀 Quick Start Guide
+
+### New to Structured Training?
+
+**Start here - complete this 4-step process:**
+
+1. **Week 1: Learn the Basics** (2-3 hours reading)
+   - Read [Training Principles](./fundamentals/training-principles.md)
+   - Read [The Easy/Hard Rule](./concepts/easy-hard.md)
+   - Read [Heart Rate Zones](./concepts/heart-rate-zones.md)
+   - **Action:** Calculate your heart rate zones using [this table](./visuals/heart-rate-zones-table.md)
+
+2. **Week 2: Understand Your Training Paces**
+   - Run a 5K time trial or use recent race time
+   - Visit [McMillan Calculator](https://www.mcmillanrunning.com) OR use Jack Daniels VDOT tables
+   - Write down your paces: Easy, Tempo, Interval
+   - Read [Types of Workouts](./fundamentals/workout-types.md)
+
+3. **Week 3: Choose Your System**
+   - Read [Jack Daniels](./systems/jack-daniels.md) OR [McMillan](./systems/mcmillan.md)
+   - Read [Comparison Guide](./systems/comparison.md) if unsure
+   - Pick the system that resonates with you
+   - **Tip:** Beginners → McMillan, Data-lovers → Jack Daniels
+
+4. **Week 4: Start Training**
+   - Choose a training plan for your goal race:
+     - [5K Plan](./templates/12-week-5k-training-plan.md) | [10K Plan](./templates/12-week-10k-training-plan.md) | [Half Marathon](./templates/16-week-half-marathon-training-plan.md) | [Marathon](./templates/18-week-marathon-training-plan.md)
+   - OR design your own using [Periodization Guide](./visuals/periodization-guide.md)
+   - Track your training and adjust as needed
+
+### Already Training?
+
+**Use this guide to fill knowledge gaps:**
+
+- **Struggling with easy pace?** → Read [Aerobic System](./fundamentals/aerobic-system.md) and [Easy/Hard Rule](./concepts/easy-hard.md)
+- **Not improving?** → Read [Progression](./fundamentals/progression.md) and [Lactate Threshold](./concepts/lactate-threshold.md)
+- **Always injured/tired?** → Read [Recovery](./fundamentals/recovery.md) and verify you're following 80/20 rule
+- **Confused about workouts?** → Read [Workout Types](./fundamentals/workout-types.md)
+- **Want a training plan?** → Check [Training Systems](./systems/comparison.md)
+
+## Visual Guides & Templates
+
+### Visual Learning Tools
+- **[Heart Rate Zones Table](./visuals/heart-rate-zones-table.md)** - Calculate your personal training zones with examples
+- **[Periodization Visual Guide](./visuals/periodization-guide.md)** - See how training phases fit together over time
+
+### Complete Training Plans (Intermediate Level)
+
+Ready-to-use training plans for all major race distances:
+
+- **[12-Week 5K Training Plan](./templates/12-week-5k-training-plan.md)** - 25-35 mpw | Build speed and VO2 max
+- **[12-Week 10K Training Plan](./templates/12-week-10k-training-plan.md)** - 30-45 mpw | Master lactate threshold
+- **[16-Week Half Marathon Plan](./templates/16-week-half-marathon-training-plan.md)** - 35-50 mpw | Balance of speed and endurance
+- **[18-Week Marathon Plan](./templates/18-week-marathon-training-plan.md)** - 40-55 mpw | Build serious endurance
+
+**Each plan includes:**
+- Week-by-week schedule with daily workouts
+- Detailed workout descriptions
+- Pacing guidelines
+- Race strategy tips
+- Customization options
+- Recovery protocols
+
 ## How to Use This Guide
 
+### For Comprehensive Learning:
 1. Start with the **Fundamentals** section to build your knowledge foundation
 2. Explore **Key Concepts** to understand the science behind training
 3. Learn about proven **Training Systems** and how to apply them to your goals
+
+### For Quick Reference:
+- Use the visual guides for at-a-glance information
+- Jump to specific topics as needed
+- Bookmark training pace calculators
 
 ## Companion YouTube Series
 
