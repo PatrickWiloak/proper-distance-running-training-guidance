@@ -4,8 +4,30 @@
 
 **Target Audience:** Runners with 1+ year consistent running, 25-30 mpw base
 **Goal:** 10K race in 12 weeks
-**Weekly Mileage:** 30-45 miles
+**Weekly Mileage:** 15-50 miles (peak week 50)
 **Experience Required:** Comfortable running 45+ minutes continuously, completed at least one 5K race
+
+### If This Is More Volume Than You Want
+
+This plan peaks at **50 miles** in its biggest week. That is a real 10K build, and
+it sits at the top of the intermediate range rather than the middle of it. Every weekly
+total in this plan has been checked against the workouts actually listed underneath it,
+so the number above is the number you will run.
+
+**To run this plan at roughly 40 miles per week instead:**
+
+- Trim **4-5 miles per week off the easy days only**. Take a mile off two or three easy
+  runs rather than a large chunk off one.
+- **Do not cut the quality sessions** (tempo, intervals, marathon-pace work). They are the
+  reason the plan works.
+- **Do not cut the long run** by more than a mile or two. It is the other reason.
+- If the plan still feels like too much after that, you want the beginner version, not a
+  trimmed version of this one. There is no shame in that and it will make you faster than
+  limping through a plan that is over your head.
+
+The volume is a dial. The easy/hard structure is not. See
+[Training Principles](../fundamentals/training-principles.md) and
+[Injury Prevention](../fundamentals/injury-prevention.md).
 
 ## Before You Start
 
@@ -39,7 +61,7 @@ The 10K requires a balance of stamina (aerobic base), strength (lactate threshol
 
 ### Phase 1: Base Building (Weeks 1-4)
 
-#### Week 1: Establish Base (30 miles)
+#### Week 1: Establish Base (30-37 miles)
 - **Monday:** Easy 5 miles
 - **Tuesday:** Easy 5 miles + 6x100m strides
 - **Wednesday:** Easy 4 miles
@@ -48,7 +70,7 @@ The 10K requires a balance of stamina (aerobic base), strength (lactate threshol
 - **Saturday:** Long run 10 miles easy
 - **Sunday:** Rest or recovery 4 miles
 
-#### Week 2: Build Volume (34 miles)
+#### Week 2: Build Volume (38-41 miles)
 - **Monday:** Easy 5 miles
 - **Tuesday:** Easy 6 miles + 6x100m strides
 - **Wednesday:** Easy 5 miles
@@ -57,7 +79,7 @@ The 10K requires a balance of stamina (aerobic base), strength (lactate threshol
 - **Saturday:** Long run 12 miles easy
 - **Sunday:** Recovery 4 miles
 
-#### Week 3: Peak Base Volume (38 miles)
+#### Week 3: Peak Base Volume (45 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** Easy 7 miles + 8x100m strides
 - **Wednesday:** Easy 5 miles
@@ -79,7 +101,7 @@ The 10K requires a balance of stamina (aerobic base), strength (lactate threshol
 
 ### Phase 2: Build - Add Tempo Work (Weeks 5-8)
 
-#### Week 5: Introduce Tempo (35 miles)
+#### Week 5: Introduce Tempo (43 miles)
 - **Monday:** Easy 5 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 20 min at tempo pace + 2mi cooldown = 8 miles
 - **Wednesday:** Easy 5 miles
@@ -88,7 +110,7 @@ The 10K requires a balance of stamina (aerobic base), strength (lactate threshol
 - **Saturday:** Long run 12 miles (last 3 at marathon pace)
 - **Sunday:** Recovery 4 miles
 
-#### Week 6: Build Tempo (38 miles)
+#### Week 6: Build Tempo (47 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 25 min at tempo pace + 2mi cooldown = 9 miles
 - **Wednesday:** Easy 5 miles + 6x100m strides
@@ -97,7 +119,7 @@ The 10K requires a balance of stamina (aerobic base), strength (lactate threshol
 - **Saturday:** Long run 13 miles (middle 4 at marathon pace)
 - **Sunday:** Recovery 4 miles
 
-#### Week 7: Extended Tempo (40 miles)
+#### Week 7: Extended Tempo (50 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 4x2mi at tempo w/2min recovery + 2mi cooldown = 11 miles
 - **Wednesday:** Easy 5 miles + 8x100m strides
@@ -106,7 +128,7 @@ The 10K requires a balance of stamina (aerobic base), strength (lactate threshol
 - **Saturday:** Long run 14 miles easy
 - **Sunday:** Recovery 4 miles
 
-#### Week 8: Recovery + Optional Race (30 miles)
+#### Week 8: Recovery + Optional Race (19-29 miles)
 - **Monday:** Rest
 - **Tuesday:** Easy 6 miles
 - **Wednesday:** Easy 4 miles + 6x100m strides
@@ -119,7 +141,7 @@ The 10K requires a balance of stamina (aerobic base), strength (lactate threshol
 
 ### Phase 3: Peak - Add Intervals & Race-Specific Work (Weeks 9-11)
 
-#### Week 9: Introduce Intervals (40 miles)
+#### Week 9: Introduce Intervals (46 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** **Intervals** - 2mi warmup + 6x1000m at 5K pace w/400m jog + 2mi cooldown = 10 miles
 - **Wednesday:** Easy 5 miles
@@ -128,7 +150,7 @@ The 10K requires a balance of stamina (aerobic base), strength (lactate threshol
 - **Saturday:** **Tempo** - 2mi warmup + 30 min tempo + 2mi cooldown = 10 miles
 - **Sunday:** Recovery 5 miles
 
-#### Week 10: Peak Quality (43 miles)
+#### Week 10: Peak Quality (48 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** **Intervals** - 2mi warmup + 5x1200m at 5K pace w/3min rest + 2mi cooldown = 10 miles
 - **Wednesday:** Easy 5 miles
@@ -137,7 +159,7 @@ The 10K requires a balance of stamina (aerobic base), strength (lactate threshol
 - **Saturday:** **10K Race Pace Run** - 2mi warmup + 4mi at 10K race pace + 2mi cooldown = 10 miles
 - **Sunday:** Recovery 6 miles
 
-#### Week 11: Final Peak (42 miles)
+#### Week 11: Final Peak (48 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 5mi at tempo pace + 2mi cooldown = 11 miles
 - **Wednesday:** Easy 5 miles
@@ -150,7 +172,7 @@ The 10K requires a balance of stamina (aerobic base), strength (lactate threshol
 
 ### Phase 4: Taper + Race (Week 12)
 
-#### Week 12: Taper Week (24 miles + race)
+#### Week 12: Taper Week (15 miles + race)
 - **Monday:** Rest
 - **Tuesday:** Easy 5 miles + 6x100m strides
 - **Wednesday:** **Sharpener** - 2mi easy + 2mi at tempo + 2min rest + 4x400m at 5K pace w/90sec rest + 1mi easy = 6 miles
@@ -305,18 +327,18 @@ By the end of this plan, you should:
 ## Weekly Mileage Progression
 
 ```
-Week 1:  30 miles (base)
-Week 2:  34 miles (build)
-Week 3:  38 miles (peak base)
-Week 4:  28 miles (recovery)
-Week 5:  35 miles (add tempo)
-Week 6:  38 miles (build tempo)
-Week 7:  40 miles (extended tempo)
-Week 8:  30 miles (recovery/race)
-Week 9:  40 miles (add intervals)
-Week 10: 43 miles (peak)
-Week 11: 42 miles (final peak)
-Week 12: 24 miles (taper)
+Week 1: 30-37 miles (base)
+Week 2: 38-41 miles (build)
+Week 3: 45 miles
+Week 4: 28 miles (recovery)
+Week 5: 43 miles (add tempo)
+Week 6: 47 miles (build tempo)
+Week 7: 50 miles (extended tempo) (PEAK)
+Week 8: 19-29 miles (recovery/race)
+Week 9: 46 miles (add intervals)
+Week 10: 48 miles
+Week 11: 48 miles (final peak)
+Week 12: 15 miles + race (taper)
 ```
 
 ## Additional Resources

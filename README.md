@@ -1,149 +1,180 @@
 # Proper Training for Distance Running
 
-A comprehensive guide to distance running fundamentals, designed to help runners of all levels understand the principles behind effective training.
+An evidence-based guide to distance running: the physiology, the training systems, and
+twelve ready-to-run plans for 5K through marathon at beginner, intermediate, and
+advanced levels.
 
-## Overview
+> **Written by [Patrick Wiloak](./ABOUT.md).** 2:55:13 at the Boston Marathon, age 20.
+> 4:40 mile, 16:40 5K, 1:23 half. Five marathons.
 
-This repository covers the essential concepts every distance runner should know before diving into structured training plans. Whether you're training for your first 5K or preparing for a marathon, understanding these fundamentals will help you train smarter and avoid common pitfalls.
+---
 
-## Contents
+## Why listen to me? Partly, you shouldn't.
 
-### 1. Fundamentals
-- **[Training Principles](./fundamentals/training-principles.md)** - Core concepts that govern all effective training
-- **[Types of Running Workouts](./fundamentals/workout-types.md)** - Understanding easy runs, tempo runs, intervals, and long runs
-- **[The Aerobic System](./fundamentals/aerobic-system.md)** - Why most of your training should be easy
-- **[Recovery and Adaptation](./fundamentals/recovery.md)** - How your body actually gets faster
-- **[Progression and Periodization](./fundamentals/progression.md)** - Building fitness safely over time
+Here is my racing record converted to VDOT, a single number for running fitness. For an
+evenly developed runner it stays roughly flat across distances. Mine does this:
 
-### 2. Key Concepts
-- **[Heart Rate Zones](./concepts/heart-rate-zones.md)** - Training by effort level
-- **[VO2 Max and Running Economy](./concepts/vo2max-economy.md)** - The science of running performance
-- **[Lactate Threshold](./concepts/lactate-threshold.md)** - Your most important training metric
-- **[The Easy/Hard Rule](./concepts/easy-hard.md)** - Why polarized training works
+| 400m | 1 mile | 5K | 10K | Half | Marathon |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **78** | 64 | 62 | 57 | 56 | **55** |
 
-### 3. Recommended Training Systems
+That is not the shape of a well-trained distance runner. That is the shape of a miler
+who showed up to a marathon. My 5K speed alone predicted a **2:39:46** marathon.
 
-Once you understand the fundamentals, these evidence-based systems can guide your training:
+**I ran 2:55:13.**
 
-- **[Jack Daniels' Running Formula](./systems/jack-daniels.md)** - VDOT-based training with specific paces
-- **[McMillan Running](./systems/mcmillan.md)** - Race-specific training approaches
-- **[Comparison and How to Choose](./systems/comparison.md)** - Which system is right for you
+Fifteen minutes, gone. Not to a bad day or a hard course, but to an aerobic base I never
+bothered to build because base work is boring and intervals are fun. The chapters in this
+guide that look skippable - easy running, aerobic development, patience - are the exact
+ones I skipped, and I have the splits to prove what it cost.
 
-## 🚀 Quick Start Guide
+**This guide is what I wish someone had handed me at nineteen.**
+[The full ladder, the Boston splits, and the whole story →](./ABOUT.md)
 
-### New to Structured Training?
+---
 
-**Start here - complete this 4-step process:**
+## What makes this different
 
-1. **Week 1: Learn the Basics** (2-3 hours reading)
-   - Read [Training Principles](./fundamentals/training-principles.md)
-   - Read [The Easy/Hard Rule](./concepts/easy-hard.md)
-   - Read [Heart Rate Zones](./concepts/heart-rate-zones.md)
-   - **Action:** Calculate your heart rate zones using [this table](./visuals/heart-rate-zones-table.md)
+- **The advice is checked.** Every claim is cited to the primary literature so you can
+  verify it instead of trusting me. Where the evidence is weak or contested (shoe
+  prescription, stretching, running form), the guide says so instead of pretending.
+- **The plans actually add up.** Every weekly mileage total has been verified against the
+  workouts listed beneath it. If a week says 48 miles, the days sum to 48. That should be
+  table stakes. It is not: these plans previously understated their own load by up to 12
+  miles a week, which is precisely the training-load error that causes running injuries.
+- **You never have to leave.** The [VDOT tables](./reference/vdot-and-pace-tables.md) give
+  you race equivalencies and exact training paces for VDOT 30 to 85. They are *computed*
+  from the published Daniels-Gilbert formulas and verified against known values, not
+  copied out of a book. The generator script ships with them.
+- **Real race data, not hypotheticals.** The pacing chapter is built on my actual Boston
+  splits, including the parts that make me look bad.
 
-2. **Week 2: Understand Your Training Paces**
-   - Run a 5K time trial or use recent race time
-   - Visit [McMillan Calculator](https://www.mcmillanrunning.com) OR use Jack Daniels VDOT tables
-   - Write down your paces: Easy, Tempo, Interval
-   - Read [Types of Workouts](./fundamentals/workout-types.md)
+---
 
-3. **Week 3: Choose Your System**
-   - Read [Jack Daniels](./systems/jack-daniels.md) OR [McMillan](./systems/mcmillan.md)
-   - Read [Comparison Guide](./systems/comparison.md) if unsure
-   - Pick the system that resonates with you
-   - **Tip:** Beginners → McMillan, Data-lovers → Jack Daniels
+## Start here
 
-4. **Week 4: Start Training**
-   - Choose a training plan for your goal race:
-     - [5K Plan](./templates/12-week-5k-training-plan.md) | [10K Plan](./templates/12-week-10k-training-plan.md) | [Half Marathon](./templates/16-week-half-marathon-training-plan.md) | [Marathon](./templates/18-week-marathon-training-plan.md)
-   - OR design your own using [Periodization Guide](./visuals/periodization-guide.md)
-   - Track your training and adjust as needed
+**New to structured training?**
+[Training Principles](./fundamentals/training-principles.md) →
+[The Easy/Hard Rule](./concepts/easy-hard.md) →
+[The Aerobic System](./fundamentals/aerobic-system.md) → find your paces in the
+[VDOT tables](./reference/vdot-and-pace-tables.md) → pick a beginner plan below.
+That is the entire on-ramp.
 
-### Already Training?
+**Already training and stuck?** Jump to your symptom:
 
-**Use this guide to fill knowledge gaps:**
+| Symptom | Read this |
+|---|---|
+| Working hard, not improving | [Aerobic System](./fundamentals/aerobic-system.md), [Easy/Hard Rule](./concepts/easy-hard.md). You are almost certainly running your easy days too hard. |
+| Always injured | [Injury Prevention](./fundamentals/injury-prevention.md), [Recovery](./fundamentals/recovery.md), [Progression](./fundamentals/progression.md) |
+| Always exhausted | [Recovery](./fundamentals/recovery.md). Check yourself for overtraining. |
+| Fall apart late in races | [Race Day Execution](./concepts/race-day-execution.md) |
+| Hit the wall in the marathon | [Fueling and Nutrition](./fundamentals/fueling-and-nutrition.md) |
+| No idea what pace to run | [VDOT and Pace Tables](./reference/vdot-and-pace-tables.md) |
+| Fast at 5K, slow at the marathon | [About](./ABOUT.md). I have bad news and a chart. |
+| Lost in the jargon | [Glossary](./reference/glossary.md) |
+| Just have a question | [FAQ](./reference/faq.md) |
 
-- **Struggling with easy pace?** → Read [Aerobic System](./fundamentals/aerobic-system.md) and [Easy/Hard Rule](./concepts/easy-hard.md)
-- **Not improving?** → Read [Progression](./fundamentals/progression.md) and [Lactate Threshold](./concepts/lactate-threshold.md)
-- **Always injured/tired?** → Read [Recovery](./fundamentals/recovery.md) and verify you're following 80/20 rule
-- **Confused about workouts?** → Read [Workout Types](./fundamentals/workout-types.md)
-- **Want a training plan?** → Check [Training Systems](./systems/comparison.md)
+---
 
-## Visual Guides & Templates
+## Training plans
 
-### Visual Learning Tools
-- **[Heart Rate Zones Table](./visuals/heart-rate-zones-table.md)** - Calculate your personal training zones with examples
-- **[Periodization Visual Guide](./visuals/periodization-guide.md)** - See how training phases fit together over time
+Pick your distance, then your level. Each plan is a week-by-week, day-by-day schedule
+with paces, race strategy, and instructions for when life gets in the way.
 
-### Complete Training Plans (Intermediate Level)
+The number shown is the plan's **peak week**, not its average.
 
-Ready-to-use training plans for all major race distances:
+| Distance | Beginner | Intermediate | Advanced |
+|---|---|---|---|
+| **5K** | [12 wk, peak 19 mi](./templates/12-week-5k-training-plan-beginner.md) | [12 wk, peak 38 mi](./templates/12-week-5k-training-plan.md) | [12 wk, peak 70 mi](./templates/12-week-5k-training-plan-advanced.md) |
+| **10K** | [12 wk, peak 27 mi](./templates/12-week-10k-training-plan-beginner.md) | [12 wk, peak 50 mi](./templates/12-week-10k-training-plan.md) | [12 wk, peak 75 mi](./templates/12-week-10k-training-plan-advanced.md) |
+| **Half marathon** | [16 wk, peak 33 mi](./templates/16-week-half-marathon-training-plan-beginner.md) | [16 wk, peak 61 mi](./templates/16-week-half-marathon-training-plan.md) | [16 wk, peak 78 mi](./templates/16-week-half-marathon-training-plan-advanced.md) |
+| **Marathon** | [20 wk, peak 39 mi](./templates/20-week-marathon-training-plan-beginner.md) | [18 wk, peak 68 mi](./templates/18-week-marathon-training-plan.md) | [18 wk, peak 88 mi](./templates/18-week-marathon-training-plan-advanced.md) |
 
-- **[12-Week 5K Training Plan](./templates/12-week-5k-training-plan.md)** - 25-35 mpw | Build speed and VO2 max
-- **[12-Week 10K Training Plan](./templates/12-week-10k-training-plan.md)** - 30-45 mpw | Master lactate threshold
-- **[16-Week Half Marathon Plan](./templates/16-week-half-marathon-training-plan.md)** - 35-50 mpw | Balance of speed and endurance
-- **[18-Week Marathon Plan](./templates/18-week-marathon-training-plan.md)** - 40-55 mpw | Build serious endurance
+**Which level?**
 
-**Each plan includes:**
-- Week-by-week schedule with daily workouts
-- Detailed workout descriptions
-- Pacing guidelines
-- Race strategy tips
-- Customization options
-- Recovery protocols
+- **Beginner** - you want to finish the distance. Run/walk is welcome and is not cheating.
+- **Intermediate** - you have 6+ months of consistent running and you want to race it.
+- **Advanced** - you hold 40+ mpw year round and you are chasing a specific time.
 
-## How to Use This Guide
+**The intermediate plans run at the top of their range.** If the peak is more volume than
+you want, each plan has an *"If This Is More Volume Than You Want"* section telling you
+exactly how to scale it down. Trim easy miles, never the quality sessions or the long run.
+**Volume is a dial. The easy/hard structure is not.**
 
-### For Comprehensive Learning:
-1. Start with the **Fundamentals** section to build your knowledge foundation
-2. Explore **Key Concepts** to understand the science behind training
-3. Learn about proven **Training Systems** and how to apply them to your goals
+Log it with the [Training Log Template](./templates/training-log-template.md). You cannot
+diagnose a training-load error in hindsight if you never wrote the load down.
 
-### For Quick Reference:
-- Use the visual guides for at-a-glance information
-- Jump to specific topics as needed
-- Bookmark training pace calculators
+---
 
-## Companion YouTube Series
+## The guide
 
-This repository is paired with a video tutorial series that explains each concept in detail. Video links will be added to each section as they're published.
+**Fundamentals**
 
-## Contributing
+| Page | What it covers |
+|---|---|
+| [Training Principles](./fundamentals/training-principles.md) | Specificity, overload, adaptation, reversibility. The rules under every plan. |
+| [Types of Workouts](./fundamentals/workout-types.md) | Easy, tempo, interval, long. What each is actually for. |
+| [The Aerobic System](./fundamentals/aerobic-system.md) | Why most of your running should be easy, and what it costs when it isn't. |
+| [Recovery and Adaptation](./fundamentals/recovery.md) | You do not get faster during the workout. You get faster after it. |
+| [Progression and Periodization](./fundamentals/progression.md) | Building fitness over months without breaking. |
+| [Strength Training](./fundamentals/strength-training.md) | Improves running economy without moving VO₂max. Most runners skip it. |
+| [Injury Prevention](./fundamentals/injury-prevention.md) | Most running injuries are load errors, not biomechanical flaws. |
+| [Fueling and Nutrition](./fundamentals/fueling-and-nutrition.md) | Daily carbohydrate, race fueling, and why the wall exists. |
 
-Found an error or have a suggestion? Feel free to open an issue or submit a pull request.
+**Key concepts**
 
-## Scientific Foundation
+| Page | What it covers |
+|---|---|
+| [Heart Rate Zones](./concepts/heart-rate-zones.md) | Training by effort. |
+| [VO₂max and Running Economy](./concepts/vo2max-economy.md) | What actually determines endurance performance. |
+| [Lactate Threshold](./concepts/lactate-threshold.md) | The single most trainable metric you have. |
+| [The Easy/Hard Rule](./concepts/easy-hard.md) | Why polarized (80/20) training works, and what the gray zone cost me. |
+| [Race Day Execution](./concepts/race-day-execution.md) | Pacing, tapering, the even split. Built on my Boston splits. |
 
-This guide is grounded in peer-reviewed exercise physiology research and evidence-based coaching practices. Each section includes citations to medical journals, scientific publications, and authoritative sources.
+**Training systems**
 
-### Key Research Areas Covered:
+| Page | What it covers |
+|---|---|
+| [Jack Daniels' Running Formula](./systems/jack-daniels.md) | VDOT-based, precise paces. |
+| [McMillan Running](./systems/mcmillan.md) | Race-specific, runner-type aware. |
+| [Comparison: How to Choose](./systems/comparison.md) | Which one fits you. |
 
-- **Training Intensity Distribution**: Polarized training and the 80/20 principle
-- **Aerobic Adaptations**: Mitochondrial biogenesis, capillary density, and metabolic changes
-- **Lactate Threshold**: Metabolic markers and threshold training effectiveness
-- **VO₂max and Running Economy**: Determinants of endurance performance
-- **Recovery Science**: Sleep, overtraining syndrome, and adaptation physiology
-- **Periodization**: Training phase organization and progression principles
+**Reference**
 
-### Primary Sources:
+| Page | What it covers |
+|---|---|
+| [VDOT and Pace Tables](./reference/vdot-and-pace-tables.md) | Your training paces from any recent race. Computed and verified, not copied. |
+| [Glossary](./reference/glossary.md) | Every term in this guide, defined. |
+| [FAQ](./reference/faq.md) | The questions runners actually ask, answered without hedging. |
+| [Heart Rate Zones Table](./visuals/heart-rate-zones-table.md) | Calculate your personal zones. |
+| [Periodization Guide](./visuals/periodization-guide.md) | How the training phases fit together. |
+| [Training Log Template](./templates/training-log-template.md) | Track it, or you are guessing. |
 
-**Books:**
+---
+
+## Scientific foundation
+
+Every page carries its own reference list. These are the load-bearing sources.
+
+**Books**
 - Daniels, J. (2013). *Daniels' Running Formula* (3rd ed.). Human Kinetics.
 - McMillan, G. (2010). *You (Only Faster)*. Greg McMillan.
 - Bompa, T. O., & Haff, G. G. (2009). *Periodization: Theory and Methodology of Training*. Human Kinetics.
 
-**Key Research Papers:**
-- Seiler, S. (2010). "What is best practice for training intensity and duration distribution in endurance athletes?" *International Journal of Sports Physiology and Performance*, 5(3), 276-291.
-- Bassett, D. R., & Howley, E. T. (2000). "Limiting factors for maximum oxygen uptake and determinants of endurance performance." *Medicine and Science in Sports and Exercise*, 32(1), 70-84.
-- Billat, V. L. (2001). "Interval training for performance: a scientific and empirical practice." *Sports Medicine*, 31(1), 13-31.
-
-**Online Resources:**
-- [McMillan Running Calculator](https://www.mcmillanrunning.com) - Training pace calculator
-- [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) - Free access to biomedical research
-- Wikipedia articles on exercise physiology topics (referenced throughout)
-
-**Note:** Complete references are provided at the end of each section throughout this guide.
+**Papers**
+- Seiler, S. (2010). "What is best practice for training intensity and duration distribution in endurance athletes?" *IJSPP*, 5(3), 276-291.
+- Bassett, D. R., & Howley, E. T. (2000). "Limiting factors for maximum oxygen uptake and determinants of endurance performance." *MSSE*, 32(1), 70-84.
+- Nielsen, R. O., et al. (2012). "Training errors and running related injuries: a systematic review." *IJSPT*, 7(1), 58-75.
+- Rønnestad, B. R., & Mujika, I. (2014). "Optimizing strength training for running and cycling endurance performance: a review." *Scand J Med Sci Sports*, 24(4), 603-612.
+- Thomas, D. T., Erdman, K. A., & Burke, L. M. (2016). "Nutrition and Athletic Performance." *J Acad Nutr Diet*, 116(3), 501-528.
 
 ---
 
-*Disclaimer: This guide is for educational purposes. Consult with a healthcare provider before starting any new training program.*
+## Contributing
+
+Found an error? Open an issue or a pull request. **If you think a claim here is wrong,
+bring the paper and I will change it.** That is the whole standard.
+
+---
+
+*Disclaimer: This guide is educational, not medical advice. Consult a healthcare provider before starting any new training program.*

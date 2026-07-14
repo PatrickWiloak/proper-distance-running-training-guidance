@@ -248,4 +248,4 @@ Week 8: RECOVERY ███████ (38 miles) ← Down week
 
 ---
 
-**Remember:** Periodization isn't just a fancy plan—it's how you systematically build fitness while avoiding injury and overtraining. Every elite runner uses periodization. You should too.
+**Remember:** Periodization isn't just a fancy plan - it's how you systematically build fitness while avoiding injury and overtraining. Every elite runner uses periodization. You should too.

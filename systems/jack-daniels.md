@@ -53,9 +53,33 @@ One of the most respected and scientifically-grounded training systems in distan
 
 ### Where to Find VDOT:
 
-- **Book:** *Daniels' Running Formula* (includes full tables)
+- **In this guide:** [VDOT and Pace Tables](../reference/vdot-and-pace-tables.md) - race equivalencies and training paces for VDOT 30 to 85, computed from the published Daniels-Gilbert formulas and verified. You do not need to leave this repo.
+- **Book:** *Daniels' Running Formula* (includes the full official tables)
 - **Online calculators:** Many free VDOT calculators available
-- **Apps:** Some training apps include VDOT calculations
+
+### The Caveat Nobody Puts Next to the Table
+
+**VDOT equivalence tells you what you are capable of, not what you will run.**
+
+The tables assume you have done the training specific to the distance you are looking
+up. Read across from your 5K to the marathon column and you get the marathon you
+*could* run if your aerobic base and long-run endurance matched your speed. If they
+do not, that number is fiction.
+
+**A worked example, from the author of this guide.** My 5K PR of 16:40 solves to
+VDOT **61.6**. Read across, and VDOT 61.6 predicts a marathon of **2:39:46**. My
+actual marathon PR is **2:55:13** - a VDOT of **55**.
+
+The table was not wrong. It was telling me what a 61.6 with a marathon-ready base
+would run. I had the speed and not the base, so I collected the 5K time and left
+fifteen minutes of the marathon on Boylston Street.
+
+**Read the equivalency in the direction that flatters you least.** Predicting a
+marathon from a 5K is optimistic - it assumes endurance you may not have built.
+Predicting a 5K from a marathon is conservative and much more reliable. When the two
+disagree, the longer race is telling you the truth about your base.
+
+See [About the Author](../ABOUT.md) for the full VDOT ladder.
 
 ## The Five Training Paces
 

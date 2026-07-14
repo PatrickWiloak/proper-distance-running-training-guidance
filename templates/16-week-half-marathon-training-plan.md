@@ -4,8 +4,30 @@
 
 **Target Audience:** Runners with 1-2 years consistent running, 30-35 mpw base
 **Goal:** Half Marathon (13.1 miles) in 16 weeks
-**Weekly Mileage:** 35-50 miles
+**Weekly Mileage:** 23-61 miles (peak week 61)
 **Experience Required:** Comfortable running 60+ minutes continuously, completed at least one 10K race
+
+### If This Is More Volume Than You Want
+
+This plan peaks at **61 miles** in its biggest week. That is a real half marathon build, and
+it sits at the top of the intermediate range rather than the middle of it. Every weekly
+total in this plan has been checked against the workouts actually listed underneath it,
+so the number above is the number you will run.
+
+**To run this plan at roughly 50 miles per week instead:**
+
+- Trim **5-6 miles per week off the easy days only**. Take a mile off two or three easy
+  runs rather than a large chunk off one.
+- **Do not cut the quality sessions** (tempo, intervals, marathon-pace work). They are the
+  reason the plan works.
+- **Do not cut the long run** by more than a mile or two. It is the other reason.
+- If the plan still feels like too much after that, you want the beginner version, not a
+  trimmed version of this one. There is no shame in that and it will make you faster than
+  limping through a plan that is over your head.
+
+The volume is a dial. The easy/hard structure is not. See
+[Training Principles](../fundamentals/training-principles.md) and
+[Injury Prevention](../fundamentals/injury-prevention.md).
 
 ## Before You Start
 
@@ -40,7 +62,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 
 ### Phase 1: Base Building (Weeks 1-6)
 
-#### Week 1: Establish Base (35 miles)
+#### Week 1: Establish Base (39-42 miles)
 - **Monday:** Easy 5 miles
 - **Tuesday:** Easy 6 miles + 6x100m strides
 - **Wednesday:** Easy 5 miles
@@ -49,7 +71,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 - **Saturday:** Long run 12 miles easy
 - **Sunday:** Recovery 5 miles
 
-#### Week 2: Build Volume (38 miles)
+#### Week 2: Build Volume (45 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** Easy 6 miles + 6x100m strides
 - **Wednesday:** Easy 5 miles
@@ -58,7 +80,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 - **Saturday:** Long run 13 miles easy
 - **Sunday:** Recovery 5 miles
 
-#### Week 3: Increase Volume (40 miles)
+#### Week 3: Increase Volume (47 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** Easy 7 miles + 8x100m strides
 - **Wednesday:** Easy 5 miles
@@ -76,7 +98,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 - **Saturday:** Long run 10 miles easy
 - **Sunday:** Recovery 4 miles
 
-#### Week 5: Build Again (42 miles)
+#### Week 5: Build Again (50 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** Easy 7 miles + 6x100m strides
 - **Wednesday:** Easy 6 miles
@@ -85,7 +107,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 - **Saturday:** Long run 15 miles easy
 - **Sunday:** Recovery 5 miles
 
-#### Week 6: Recovery Week (32 miles)
+#### Week 6: Recovery Week (33 miles)
 - **Monday:** Rest
 - **Tuesday:** Easy 7 miles
 - **Wednesday:** Easy 5 miles + 6x100m strides
@@ -98,7 +120,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 
 ### Phase 2: Build - Add Tempo & Quality (Weeks 7-12)
 
-#### Week 7: Introduce Tempo (40 miles)
+#### Week 7: Introduce Tempo (48 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 20 min at tempo pace + 2mi cooldown = 8 miles
 - **Wednesday:** Easy 5 miles
@@ -107,7 +129,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 - **Saturday:** Long run 14 miles (last 3 at marathon pace)
 - **Sunday:** Recovery 5 miles
 
-#### Week 8: Build Tempo (43 miles)
+#### Week 8: Build Tempo (52 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 25 min at tempo pace + 2mi cooldown = 9 miles
 - **Wednesday:** Easy 6 miles
@@ -116,7 +138,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 - **Saturday:** Long run 15 miles (middle 5 at marathon pace)
 - **Sunday:** Recovery 5 miles
 
-#### Week 9: Extended Tempo (45 miles)
+#### Week 9: Extended Tempo (55 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 5mi at tempo pace + 2mi cooldown = 11 miles
 - **Wednesday:** Easy 6 miles + 6x100m strides
@@ -125,7 +147,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 - **Saturday:** Long run 16 miles easy
 - **Sunday:** Recovery 5 miles
 
-#### Week 10: Recovery Week (34 miles)
+#### Week 10: Recovery Week (35 miles)
 - **Monday:** Rest
 - **Tuesday:** Easy 7 miles
 - **Wednesday:** Easy 5 miles + 6x100m strides
@@ -134,7 +156,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 - **Saturday:** Long run 12 miles easy
 - **Sunday:** Recovery 5 miles
 
-#### Week 11: Add Intervals (46 miles)
+#### Week 11: Add Intervals (51 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** **Intervals** - 2mi warmup + 5x1200m at 5K pace w/3min rest + 2mi cooldown = 10 miles
 - **Wednesday:** Easy 6 miles
@@ -143,7 +165,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 - **Saturday:** **Tempo Long Run** - 2mi easy + 30 min tempo + 2mi easy + 3mi easy = 12 miles
 - **Sunday:** Recovery 6 miles
 
-#### Week 12: Recovery + Optional 10K Race (35 miles)
+#### Week 12: Recovery + Optional 10K Race (23-35 miles)
 - **Monday:** Rest
 - **Tuesday:** Easy 7 miles
 - **Wednesday:** Easy 5 miles + 6x100m strides
@@ -156,7 +178,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 
 ### Phase 3: Peak - Race-Specific Training (Weeks 13-15)
 
-#### Week 13: Half Marathon Pace Introduction (47 miles)
+#### Week 13: Half Marathon Pace Introduction (58 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** **HMP Run** - 2mi warmup + 6mi at half marathon pace + 2mi cooldown = 12 miles
 - **Wednesday:** Easy 6 miles
@@ -165,7 +187,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 - **Saturday:** **Long Run** - 17 miles (first 13 easy, last 4 at HMP)
 - **Sunday:** Recovery 5 miles
 
-#### Week 14: Peak Mileage (50 miles)
+#### Week 14: Peak Mileage (61 miles)
 - **Monday:** Easy 7 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 6mi at tempo pace + 2mi cooldown = 12 miles
 - **Wednesday:** Easy 6 miles
@@ -174,7 +196,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 - **Saturday:** **Long Run** - 18 miles (first 10 easy, middle 6 at marathon pace, last 2 easy)
 - **Sunday:** Recovery 6 miles
 
-#### Week 15: Final Quality Week (48 miles)
+#### Week 15: Final Quality Week (58 miles)
 - **Monday:** Easy 7 miles
 - **Tuesday:** **Race Simulation** - 2mi warmup + 10mi at half marathon pace + 2mi cooldown = 16 miles
 - **Wednesday:** Easy 6 miles
@@ -187,7 +209,7 @@ The half marathon is the perfect balance of speed and endurance. This plan empha
 
 ### Phase 4: Taper (Week 16)
 
-#### Week 16: Taper Week (28 miles + race)
+#### Week 16: Taper Week (24 miles + race)
 - **Monday:** Easy 5 miles
 - **Tuesday:** Easy 5 miles + 6x100m strides
 - **Wednesday:** **Sharpener** - 2mi easy + 3mi at tempo + 3min rest + 6x400m at 5K pace w/90sec rest + 1mi easy = 7 miles
@@ -358,22 +380,22 @@ Week 16: RACE (13.1 miles)
 ## Weekly Mileage Progression
 
 ```
-Week 1:  35 miles
-Week 2:  38 miles
-Week 3:  40 miles
-Week 4:  30 miles (recovery)
-Week 5:  42 miles
-Week 6:  32 miles (recovery)
-Week 7:  40 miles
-Week 8:  43 miles
-Week 9:  45 miles
-Week 10: 34 miles (recovery)
-Week 11: 46 miles
-Week 12: 35 miles (recovery/race)
-Week 13: 47 miles
-Week 14: 50 miles (PEAK)
-Week 15: 48 miles
-Week 16: 28 miles (taper)
+Week 1: 39-42 miles
+Week 2: 45 miles
+Week 3: 47 miles
+Week 4: 30 miles (recovery)
+Week 5: 50 miles
+Week 6: 33 miles (recovery)
+Week 7: 48 miles
+Week 8: 52 miles
+Week 9: 55 miles
+Week 10: 35 miles (recovery)
+Week 11: 51 miles
+Week 12: 23-35 miles (recovery/race)
+Week 13: 58 miles
+Week 14: 61 miles (PEAK)
+Week 15: 58 miles
+Week 16: 24 miles + race (taper)
 ```
 
 ## Success Tips

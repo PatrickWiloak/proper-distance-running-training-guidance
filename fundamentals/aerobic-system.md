@@ -19,6 +19,42 @@ Your aerobic system determines:
 
 **Think of it this way:** Your aerobic system is the foundation. Everything else - speed, lactate threshold, VO2 max - is built on top of it.
 
+## What an Under-Built Aerobic Base Actually Costs You
+
+This is not an abstract warning. Here is what it looked like in my own racing.
+
+Convert my personal records into VDOT (a single number for current racing fitness -
+see [VDOT and Pace Tables](../reference/vdot-and-pace-tables.md)) and you get this:
+
+| Distance | Time | Implied VDOT |
+|---|---|---|
+| 400m | 0:54 | **78** |
+| 1 mile | 4:40 | 64 |
+| 5K | 16:40 | 62 |
+| 10K | 36:45 | 57 |
+| Half marathon | 1:23:00 | 56 |
+| Marathon | 2:55:13 | **55** |
+
+For an evenly developed runner, that number stays roughly **flat** across distances.
+Mine collapses: 78 at 400m down to 55 at the marathon.
+
+That shape has a name. It is a big anaerobic/neuromuscular engine bolted to an
+aerobic base that was never built to match it. **And the steepest part of the drop is
+between 5K and 10K** - precisely the point where raw speed stops carrying you and the
+aerobic system takes over.
+
+The cost is measurable. My 16:40 5K solves to a VDOT of **61.6**, and that VDOT
+predicts a marathon of **2:39:46**. I ran **2:55:13** at Boston.
+
+**Fifteen minutes.** Not lost to a bad day, a hill, or the weather. Lost to the
+adaptations on this page - the capillaries, mitochondria, blood volume, and fat
+oxidation that I did not spend enough easy miles building.
+
+Speed is the part of running that feels like training. The aerobic base is the part
+that feels like waiting. The waiting is where the marathon is won.
+
+**See:** [About the Author](../ABOUT.md) for the full ladder and the Boston splits.
+
 ## Aerobic Adaptations from Training
 
 When you train aerobically (easy running), your body makes these adaptations:

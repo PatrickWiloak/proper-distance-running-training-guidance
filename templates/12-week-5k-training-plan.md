@@ -4,8 +4,30 @@
 
 **Target Audience:** Runners with 6+ months consistent running, 20-25 mpw base
 **Goal:** 5K race in 12 weeks
-**Weekly Mileage:** 25-35 miles
+**Weekly Mileage:** 12-38 miles (peak week 38)
 **Experience Required:** Comfortable running 30-40 minutes continuously
+
+### If This Is More Volume Than You Want
+
+This plan peaks at **38 miles** in its biggest week. That is a real 5K build, and
+it sits at the top of the intermediate range rather than the middle of it. Every weekly
+total in this plan has been checked against the workouts actually listed underneath it,
+so the number above is the number you will run.
+
+**To run this plan at roughly 30 miles per week instead:**
+
+- Trim **3-4 miles per week off the easy days only**. Take a mile off two or three easy
+  runs rather than a large chunk off one.
+- **Do not cut the quality sessions** (tempo, intervals, marathon-pace work). They are the
+  reason the plan works.
+- **Do not cut the long run** by more than a mile or two. It is the other reason.
+- If the plan still feels like too much after that, you want the beginner version, not a
+  trimmed version of this one. There is no shame in that and it will make you faster than
+  limping through a plan that is over your head.
+
+The volume is a dial. The easy/hard structure is not. See
+[Training Principles](../fundamentals/training-principles.md) and
+[Injury Prevention](../fundamentals/injury-prevention.md).
 
 ## Before You Start
 
@@ -35,7 +57,7 @@
 
 ### Phase 1: Base Building (Weeks 1-4)
 
-#### Week 1: Establish Base (25 miles)
+#### Week 1: Establish Base (22-28 miles)
 - **Monday:** Rest or easy 3 miles
 - **Tuesday:** Easy 5 miles
 - **Wednesday:** Easy 4 miles + 6x100m strides
@@ -44,7 +66,7 @@
 - **Saturday:** Long run 8 miles easy
 - **Sunday:** Rest or recovery 3 miles
 
-#### Week 2: Build Volume (27 miles)
+#### Week 2: Build Volume (27-30 miles)
 - **Monday:** Easy 4 miles
 - **Tuesday:** Easy 5 miles
 - **Wednesday:** Easy 4 miles + 6x100m strides
@@ -53,7 +75,7 @@
 - **Saturday:** Long run 9 miles easy
 - **Sunday:** Rest or recovery 3 miles
 
-#### Week 3: Peak Base Volume (29 miles)
+#### Week 3: Peak Base Volume (29-35 miles)
 - **Monday:** Easy 4 miles
 - **Tuesday:** Easy 6 miles
 - **Wednesday:** Easy 4 miles + 8x100m strides
@@ -75,7 +97,7 @@
 
 ### Phase 2: Build - Add Tempo Work (Weeks 5-8)
 
-#### Week 5: Introduce Tempo (28 miles)
+#### Week 5: Introduce Tempo (31 miles)
 - **Monday:** Easy 4 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 15 min at tempo pace + 1mi cooldown = 6 miles
 - **Wednesday:** Easy 4 miles
@@ -84,7 +106,7 @@
 - **Saturday:** Long run 9 miles (last 2 at tempo pace)
 - **Sunday:** Recovery 3 miles
 
-#### Week 6: Build Tempo (30 miles)
+#### Week 6: Build Tempo (36 miles)
 - **Monday:** Easy 4 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 20 min at tempo pace + 1mi cooldown = 7 miles
 - **Wednesday:** Easy 4 miles + 6x100m strides
@@ -93,7 +115,7 @@
 - **Saturday:** Long run 10 miles (last 3 at tempo pace)
 - **Sunday:** Recovery 3 miles
 
-#### Week 7: Tempo + Strides (32 miles)
+#### Week 7: Tempo + Strides (35-38 miles)
 - **Monday:** Easy 4 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 3x2mi at tempo w/2min recovery + 1mi cooldown = 9 miles
 - **Wednesday:** Easy 4 miles + 8x100m strides
@@ -102,7 +124,7 @@
 - **Saturday:** Long run 10 miles easy
 - **Sunday:** Recovery 3 miles
 
-#### Week 8: Recovery + Optional Tune-Up Race (24 miles)
+#### Week 8: Recovery + Optional Tune-Up Race (15-22 miles)
 - **Monday:** Rest
 - **Tuesday:** Easy 5 miles
 - **Wednesday:** Easy 3 miles + 6x100m strides
@@ -115,7 +137,7 @@
 
 ### Phase 3: Peak - Add Intervals (Weeks 9-11)
 
-#### Week 9: Introduce Intervals (31 miles)
+#### Week 9: Introduce Intervals (34 miles)
 - **Monday:** Easy 4 miles
 - **Tuesday:** **Intervals** - 2mi warmup + 6x800m at 5K pace w/400m jog + 1mi cooldown = 8 miles
 - **Wednesday:** Easy 4 miles
@@ -124,7 +146,7 @@
 - **Saturday:** **Tempo** - 2mi warmup + 20 min tempo + 1mi cooldown = 7 miles
 - **Sunday:** Recovery 3 miles
 
-#### Week 10: Peak Quality (33 miles)
+#### Week 10: Peak Quality (38 miles)
 - **Monday:** Easy 5 miles
 - **Tuesday:** **Intervals** - 2mi warmup + 5x1000m at 5K pace w/2min rest + 1mi cooldown = 9 miles
 - **Wednesday:** Easy 4 miles
@@ -133,7 +155,7 @@
 - **Saturday:** **Tempo** - 2mi warmup + 25 min tempo + 1mi cooldown = 8 miles
 - **Sunday:** Recovery 3 miles
 
-#### Week 11: Final Peak (32 miles)
+#### Week 11: Final Peak (36 miles)
 - **Monday:** Easy 5 miles
 - **Tuesday:** **Intervals** - 2mi warmup + 4x1200m at 5K pace w/3min rest + 1mi cooldown = 8 miles
 - **Wednesday:** Easy 4 miles
@@ -146,7 +168,7 @@
 
 ### Phase 4: Taper + Race (Week 12)
 
-#### Week 12: Taper Week (18 miles + race)
+#### Week 12: Taper Week (12 miles + race)
 - **Monday:** Rest
 - **Tuesday:** Easy 4 miles + 6x100m strides
 - **Wednesday:** **Sharpener** - 2mi easy + 3x1K at 5K pace w/full recovery + 1mi easy = 5 miles

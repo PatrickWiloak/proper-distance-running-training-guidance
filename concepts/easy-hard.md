@@ -49,6 +49,33 @@ The most important principle in training: make your easy days easy and your hard
 
 **It's the worst of both worlds.**
 
+## What Breaking This Rule Looked Like For Me
+
+I broke this rule for years, and I can show you the bill.
+
+I raced a 4:40 mile and a 16:40 5K. In VDOT terms - a single number for current
+racing fitness - that 5K makes me a **61.6**. My marathon PR of 2:55:13 makes me a
+**55**. An evenly trained runner posts roughly the same VDOT at every distance. A
+six-point gap between your 5K and your marathon means one thing: **the top end was
+trained and the base was not.**
+
+The reason is not mysterious. My "easy" runs were not easy. They were gray-zone runs
+at a pace that felt productive because it felt like work. It was moderate effort,
+every day, exactly what this page tells you not to do. It generated fatigue that made
+my hard days worse and built almost none of the aerobic machinery that a marathon
+runs on.
+
+**A VDOT of 61.6 predicts a 2:39:46 marathon. I ran 2:55:13.** That fifteen minutes is
+what the gray zone cost me, and I paid it in the last 10K of a race I had trained
+eighteen weeks for.
+
+The cruel part is that running easy *feels* like undertraining. It is not. It is the
+only way to arrive at your hard days able to actually run them hard, and the only way
+to accumulate the volume that builds the base. If you take one thing from this guide,
+take this one.
+
+**See:** [About the Author](../ABOUT.md) | [The Aerobic System](../fundamentals/aerobic-system.md)
+
 ## What Elite Runners Do
 
 ### Research on Elite Training:

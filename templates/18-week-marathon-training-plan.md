@@ -4,8 +4,30 @@
 
 **Target Audience:** Runners with 2+ years consistent running, 35-40 mpw base, completed at least one half marathon
 **Goal:** Marathon (26.2 miles) in 18 weeks
-**Weekly Mileage:** 40-55 miles
+**Weekly Mileage:** 16-68 miles (peak week 68)
 **Experience Required:** Comfortable running 90+ minutes continuously, solid aerobic base
+
+### If This Is More Volume Than You Want
+
+This plan peaks at **68 miles** in its biggest week. That is a real marathon build, and
+it sits at the top of the intermediate range rather than the middle of it. Every weekly
+total in this plan has been checked against the workouts actually listed underneath it,
+so the number above is the number you will run.
+
+**To run this plan at roughly 55 miles per week instead:**
+
+- Trim **6-8 miles per week off the easy days only**. Take a mile off two or three easy
+  runs rather than a large chunk off one.
+- **Do not cut the quality sessions** (tempo, intervals, marathon-pace work). They are the
+  reason the plan works.
+- **Do not cut the long run** by more than a mile or two. It is the other reason.
+- If the plan still feels like too much after that, you want the beginner version, not a
+  trimmed version of this one. There is no shame in that and it will make you faster than
+  limping through a plan that is over your head.
+
+The volume is a dial. The easy/hard structure is not. See
+[Training Principles](../fundamentals/training-principles.md) and
+[Injury Prevention](../fundamentals/injury-prevention.md).
 
 ## Before You Start
 
@@ -49,7 +71,7 @@ The marathon is won or lost in training. Success requires:
 
 ### Phase 1: Base Building (Weeks 1-8)
 
-#### Week 1: Establish Base (40 miles)
+#### Week 1: Establish Base (41-45 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** Easy 6 miles + 6x100m strides
 - **Wednesday:** Easy 5 miles
@@ -58,7 +80,7 @@ The marathon is won or lost in training. Success requires:
 - **Saturday:** Long run 13 miles easy
 - **Sunday:** Recovery 5 miles
 
-#### Week 2: Build Volume (42 miles)
+#### Week 2: Build Volume (48 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** Easy 7 miles + 6x100m strides
 - **Wednesday:** Easy 5 miles
@@ -67,7 +89,7 @@ The marathon is won or lost in training. Success requires:
 - **Saturday:** Long run 14 miles easy
 - **Sunday:** Recovery 6 miles
 
-#### Week 3: Continue Building (45 miles)
+#### Week 3: Continue Building (52 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** Easy 7 miles + 8x100m strides
 - **Wednesday:** Easy 6 miles
@@ -76,7 +98,7 @@ The marathon is won or lost in training. Success requires:
 - **Saturday:** Long run 16 miles easy
 - **Sunday:** Recovery 6 miles
 
-#### Week 4: Recovery Week (34 miles)
+#### Week 4: Recovery Week (35 miles)
 - **Monday:** Rest
 - **Tuesday:** Easy 7 miles
 - **Wednesday:** Easy 5 miles + 6x100m strides
@@ -85,7 +107,7 @@ The marathon is won or lost in training. Success requires:
 - **Saturday:** Long run 12 miles easy
 - **Sunday:** Recovery 5 miles
 
-#### Week 5: Build Again (46 miles)
+#### Week 5: Build Again (54 miles)
 - **Monday:** Easy 7 miles
 - **Tuesday:** Easy 7 miles + 6x100m strides
 - **Wednesday:** Easy 6 miles
@@ -94,7 +116,7 @@ The marathon is won or lost in training. Success requires:
 - **Saturday:** Long run 17 miles easy
 - **Sunday:** Recovery 6 miles
 
-#### Week 6: Continue Volume (48 miles)
+#### Week 6: Continue Volume (56 miles)
 - **Monday:** Easy 7 miles
 - **Tuesday:** Easy 8 miles + 8x100m strides
 - **Wednesday:** Easy 6 miles
@@ -103,7 +125,7 @@ The marathon is won or lost in training. Success requires:
 - **Saturday:** Long run 18 miles easy
 - **Sunday:** Recovery 6 miles
 
-#### Week 7: Peak Base Volume (50 miles)
+#### Week 7: Peak Base Volume (59 miles)
 - **Monday:** Easy 7 miles
 - **Tuesday:** Easy 8 miles + 6x100m strides
 - **Wednesday:** Easy 6 miles
@@ -112,7 +134,7 @@ The marathon is won or lost in training. Success requires:
 - **Saturday:** Long run 19 miles easy
 - **Sunday:** Recovery 6 miles
 
-#### Week 8: Recovery Week (38 miles)
+#### Week 8: Recovery Week (39 miles)
 - **Monday:** Rest
 - **Tuesday:** Easy 8 miles
 - **Wednesday:** Easy 5 miles + 6x100m strides
@@ -125,7 +147,7 @@ The marathon is won or lost in training. Success requires:
 
 ### Phase 2: Build - Add Quality & Marathon Pace (Weeks 9-14)
 
-#### Week 9: Introduce Marathon Pace (48 miles)
+#### Week 9: Introduce Marathon Pace (55 miles)
 - **Monday:** Easy 7 miles
 - **Tuesday:** Easy 7 miles + 6x100m strides
 - **Wednesday:** Easy 6 miles
@@ -134,7 +156,7 @@ The marathon is won or lost in training. Success requires:
 - **Saturday:** **MP Long Run** - 18 miles (first 13 easy, last 5 at marathon pace)
 - **Sunday:** Recovery 6 miles
 
-#### Week 10: Add Tempo Work (50 miles)
+#### Week 10: Add Tempo Work (60 miles)
 - **Monday:** Easy 7 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 5mi at tempo pace + 2mi cooldown = 11 miles
 - **Wednesday:** Easy 6 miles
@@ -143,7 +165,7 @@ The marathon is won or lost in training. Success requires:
 - **Saturday:** Long run 19 miles easy
 - **Sunday:** Recovery 6 miles
 
-#### Week 11: Build Quality (52 miles)
+#### Week 11: Build Quality (63 miles)
 - **Monday:** Easy 7 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 6mi at tempo pace + 2mi cooldown = 12 miles
 - **Wednesday:** Easy 6 miles
@@ -152,7 +174,7 @@ The marathon is won or lost in training. Success requires:
 - **Saturday:** **MP Long Run** - 20 miles (first 14 easy, last 6 at marathon pace)
 - **Sunday:** Recovery 6 miles
 
-#### Week 12: Recovery Week (40 miles)
+#### Week 12: Recovery Week (41 miles)
 - **Monday:** Rest
 - **Tuesday:** Easy 8 miles
 - **Wednesday:** Easy 5 miles + 6x100m strides
@@ -161,7 +183,7 @@ The marathon is won or lost in training. Success requires:
 - **Saturday:** Long run 15 miles easy
 - **Sunday:** Recovery 6 miles
 
-#### Week 13: Add Intervals (52 miles)
+#### Week 13: Add Intervals (62 miles)
 - **Monday:** Easy 7 miles
 - **Tuesday:** **Intervals** - 2mi warmup + 6x1200m at 5K pace w/3min rest + 2mi cooldown = 11 miles
 - **Wednesday:** Easy 6 miles
@@ -183,7 +205,7 @@ The marathon is won or lost in training. Success requires:
 
 ### Phase 3: Peak - Race-Specific Training (Weeks 15-17)
 
-#### Week 15: Peak Long Run Week (54 miles)
+#### Week 15: Peak Long Run Week (66 miles)
 - **Monday:** Easy 7 miles
 - **Tuesday:** **Tempo** - 2mi warmup + 7mi at tempo pace + 2mi cooldown = 13 miles
 - **Wednesday:** Easy 6 miles
@@ -192,7 +214,7 @@ The marathon is won or lost in training. Success requires:
 - **Saturday:** **PEAK LONG RUN** - 22 miles (first 15 easy, last 7 at marathon pace)
 - **Sunday:** Recovery 6 miles
 
-#### Week 16: Final Quality Week (55 miles - PEAK MILEAGE)
+#### Week 16: Final Quality Week (68 miles - PEAK MILEAGE)
 - **Monday:** Easy 7 miles
 - **Tuesday:** **MP Run** - 2mi warmup + 10mi at marathon pace + 2mi cooldown = 16 miles
 - **Wednesday:** Easy 6 miles
@@ -201,7 +223,7 @@ The marathon is won or lost in training. Success requires:
 - **Saturday:** Long run 20 miles (first 16 easy, last 4 at MP)
 - **Sunday:** Recovery 6 miles
 
-#### Week 17: Begin Taper (42 miles)
+#### Week 17: Begin Taper (44 miles)
 - **Monday:** Easy 6 miles
 - **Tuesday:** **Sharpener** - 2mi warmup + 4mi at tempo + 3min rest + 6x400m at 5K pace w/90sec rest + 2mi cooldown = 10 miles
 - **Wednesday:** Easy 5 miles
@@ -214,7 +236,7 @@ The marathon is won or lost in training. Success requires:
 
 ### Phase 4: Final Taper & Race (Week 18)
 
-#### Week 18: Taper Week (26 miles + race)
+#### Week 18: Taper Week (16 miles + race)
 - **Monday:** Easy 5 miles
 - **Tuesday:** Easy 4 miles + 6x100m strides
 - **Wednesday:** Easy 4 miles with 4x400m at marathon pace (w/full recovery)
@@ -388,24 +410,24 @@ Week 18: MARATHON (26.2 miles!)
 ## Weekly Mileage Progression
 
 ```
-Week 1:  40 miles
-Week 2:  42 miles
-Week 3:  45 miles
-Week 4:  34 miles (recovery)
-Week 5:  46 miles
-Week 6:  48 miles
-Week 7:  50 miles
-Week 8:  38 miles (recovery)
-Week 9:  48 miles
-Week 10: 50 miles
-Week 11: 52 miles
-Week 12: 40 miles (recovery)
-Week 13: 52 miles
-Week 14: 42 miles (or 38 + HM)
-Week 15: 54 miles
-Week 16: 55 miles (PEAK)
-Week 17: 42 miles (taper begins)
-Week 18: 26 miles (taper)
+Week 1: 41-45 miles
+Week 2: 48 miles
+Week 3: 52 miles
+Week 4: 35 miles (recovery)
+Week 5: 54 miles
+Week 6: 56 miles
+Week 7: 59 miles
+Week 8: 39 miles (recovery)
+Week 9: 55 miles
+Week 10: 60 miles
+Week 11: 63 miles
+Week 12: 41 miles (recovery)
+Week 13: 62 miles
+Week 14: 42 miles + race
+Week 15: 66 miles
+Week 16: 68 miles (PEAK)
+Week 17: 44 miles (taper begins)
+Week 18: 16 miles + race (taper)
 ```
 
 ## Customization Guidelines
