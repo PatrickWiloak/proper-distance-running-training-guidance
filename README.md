@@ -152,21 +152,69 @@ diagnose a training-load error in hindsight if you never wrote the load down.
 
 ---
 
-## Scientific foundation
+## Credit where it is due
 
-Every page carries its own reference list. These are the load-bearing sources.
+**Almost nothing in this guide is my idea.** I raced, I read the literature, and I
+organized it. The thinking belongs to the coaches and researchers below, and if this
+guide is useful to you, their books deserve your money.
 
-**Books**
+### Dr. Jack Daniels and Jimmy Gilbert
+
+**VDOT is their work, not mine.** The concept, the physiological model, and the
+equations underneath it come from Daniels and Gilbert's *Oxygen Power* (1979) and
+Daniels' *Running Formula*. This repo leans on that work more heavily than on anything
+else in the sport.
+
+To be precise about what this repo does and does not do: the
+[VDOT and pace tables](./reference/vdot-and-pace-tables.md) here are **computed from the
+published Daniels-Gilbert equations**, and the generator script is included so you can
+check the arithmetic. They are **not** reproductions of the tables printed in Daniels'
+book, which are his copyrighted work. If you want the real thing, with the full method
+and Daniels' own commentary on how to use it,
+**[buy *Daniels' Running Formula*](https://us.humankinetics.com/products/daniels-running-formula-4th-edition).**
+It is the best book written about distance training and this guide is not a substitute
+for it.
+
+### Greg McMillan
+
+The [McMillan system](./systems/mcmillan.md) and its runner-type framing (the insight
+that Speedsters and Endurance Monsters need genuinely different training, not the same
+training at different paces) are his. His
+**[calculator](https://www.mcmillanrunning.com)** is free and excellent.
+
+### Stephen Seiler
+
+The [80/20 and polarized-training](./concepts/easy-hard.md) evidence that runs through
+this entire guide is largely his research program. The reason this guide keeps telling
+you to slow down is that Seiler kept finding that the best endurance athletes in the
+world already had.
+
+### Others whose work is used directly
+
+- **Jeff Galloway** - the run/walk method, which the [beginner marathon plan](./templates/20-week-marathon-training-plan-beginner.md) presents as a legitimate way to finish a first marathon, because it is.
+- **Arthur Lydiard** - the aerobic-base-first philosophy that essentially every modern system, including this one, is a descendant of.
+- **Pete Pfitzinger** and the **Hansons** - referenced in [systems comparison](./systems/comparison.md) as the serious alternatives once you outgrow what is here.
+- **Tudor Bompa** - periodization theory.
+
+### The research
+
+Every page carries its own reference list. These are load-bearing:
+
+- Daniels, J., & Gilbert, J. (1979). *Oxygen Power: Performance Tables for Distance Runners*.
 - Daniels, J. (2013). *Daniels' Running Formula* (3rd ed.). Human Kinetics.
 - McMillan, G. (2010). *You (Only Faster)*. Greg McMillan.
 - Bompa, T. O., & Haff, G. G. (2009). *Periodization: Theory and Methodology of Training*. Human Kinetics.
-
-**Papers**
 - Seiler, S. (2010). "What is best practice for training intensity and duration distribution in endurance athletes?" *IJSPP*, 5(3), 276-291.
 - Bassett, D. R., & Howley, E. T. (2000). "Limiting factors for maximum oxygen uptake and determinants of endurance performance." *MSSE*, 32(1), 70-84.
 - Nielsen, R. O., et al. (2012). "Training errors and running related injuries: a systematic review." *IJSPT*, 7(1), 58-75.
 - Rønnestad, B. R., & Mujika, I. (2014). "Optimizing strength training for running and cycling endurance performance: a review." *Scand J Med Sci Sports*, 24(4), 603-612.
 - Thomas, D. T., Erdman, K. A., & Burke, L. M. (2016). "Nutrition and Athletic Performance." *J Acad Nutr Diet*, 116(3), 501-528.
+- Jeukendrup, A. (2014). "A step towards personalized sports nutrition: carbohydrate intake during exercise." *Sports Medicine*, 44(S1), S25-33.
+
+### Race data
+
+The Boston Marathon splits in [ABOUT.md](./ABOUT.md) are my official results, timed and
+published by the **Boston Athletic Association**.
 
 ---
 
