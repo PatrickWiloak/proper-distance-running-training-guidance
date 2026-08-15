@@ -7,9 +7,29 @@ established training systems (Jack Daniels, McMillan), and ready-to-use training
 templates for 5K through marathon. Documentation/content repo, not an application.
 
 ## Environment
-- **Status**: Documentation / content (no deployment)
-- **Live URL**: N/A
-- **Cloud**: N/A
+- **Status**: Documentation / content. **This repo is the SOURCE OF TRUTH; it is
+  published elsewhere.** Edit the markdown here, then re-vendor into the site.
+- **Live URL**: https://achilles.fit/guides - published as the /guides section of
+  **achilles** (`~/coding/achilles`), which vendors these files with
+  `frontend/scripts/sync-guides.mjs` (`cd frontend && npm run sync:guides`).
+  ⚠️ **Editing `achilles/frontend/src/content/guides/` directly is wasted work** -
+  the next sync overwrites it. Change it here.
+  ⚠️ **A new file only reaches the site after a re-vendor**, and a new *directory*
+  also needs a `SECTIONS` entry in that script or its pages are silently skipped.
+- **Cloud**: N/A (the published copy is served from achilles' CloudFront)
+
+## Publishing notes
+- **Site-hostile markdown to avoid.** The vendoring step rewrites inter-document
+  links and backticked path references (`` `../fundamentals/recovery.md` ``) into real
+  site links, using the target page's `# ` heading as the label. Two things follow:
+  every content file **must** open with a level-1 heading, and a path reference to a
+  file that is not published (README, repo furniture) will fail the site's build
+  rather than ship dead text.
+- **The first paragraph becomes the meta description**, so it needs to stand alone as
+  a ~155-character summary. The sync script concatenates opening paragraphs until it
+  has 80+ characters and fails the build if it cannot.
+- achilles.fit is the canonical home for search purposes; this repo intentionally
+  points at it (README banner + repo homepage URL) rather than competing with it.
 
 ## Tech Stack
 - Markdown only; no build system, no source code.

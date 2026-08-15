@@ -7,6 +7,11 @@ advanced levels.
 > **Written by [Patrick Wiloak](./ABOUT.md).** 2:55:13 at the Boston Marathon, age 20.
 > 4:40 mile, 16:40 5K, 1:23 half. Five marathons.
 
+**📖 Read this online at [achilles.fit/guides](https://achilles.fit/guides)** - the
+published home of this guide, with working links, readable tables and no markdown
+rendering quirks. This repository is where the content is written and edited; the site
+is where it is meant to be read.
+
 ---
 
 ## Why listen to me? Partly, you shouldn't.
