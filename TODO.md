@@ -6,6 +6,16 @@ Working task list for **proper-distance-running-training-guidance**. Read this a
 
 ## Open
 
+### 🟠 Discoverability (added 2026-08-31)
+
+- [ ] **Upload the social preview image.** A 1280x640 card is rendered at
+      `/tmp/claude-1000/-home-plw-coding/4ffb6de8-198a-4962-8a8b-1f54e9ab4159/scratchpad/social/proper-distance-running-training-guidance-social-1280x640-31AUG2026.png`.
+      Upload via **Settings → General → Social preview** (not exposed by the GitHub API).
+- [ ] **Commit and push the new `LICENSE` (CC BY 4.0) and the README header.** Until they land,
+      GitHub shows the repo as unlicensed and the README carries no badges or branding. CC BY
+      rather than MIT because this repo is 97k words of prose and zero code files.
+- [x] ~~Set GitHub topics~~ ✅ done 2026-08-31 (14 topics: running, marathon, vdot, heart-rate-zones, ...)
+
 ### 🔴 Needs Patrick
 
 - [x] ~~Sign off on the Boston 2013 note in `ABOUT.md`~~ ✅ done 2026-07-14 (Patrick wrote it: he and his brother finished before the bombs; learned of it on an airport TV; #BostonStrong)

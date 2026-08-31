@@ -1,8 +1,37 @@
+<div align="center">
+
+<a href="https://noblerworks.com/"><img src="https://raw.githubusercontent.com/NoblerWorks-HQ/IRONSIGHT/main/nobler-works-banner.JPG" alt="Nobler Works" width="240"></a>
+
+### Built by [Patrick Wiloak](https://patrickwiloak.com) at [Nobler Works](https://noblerworks.com/)
+
+We build custom software and products at Nobler Works. Open source guides like this one are our way of giving back - we're nothing without the community that supports us.<br>
+If you need custom software built, [get in touch](https://noblerworks.com/).
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noblerworks.com/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Nobler_Works)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NoblerWorks)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@noblerworks)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@noblerworks)
+
+</div>
+
+---
+
+<div align="center">
+
 # Proper Training for Distance Running
 
-An evidence-based guide to distance running: the physiology, the training systems, and
-twelve ready-to-run plans for 5K through marathon at beginner, intermediate, and
-advanced levels.
+**An evidence-based guide to distance running: the physiology, the training systems, and
+twelve ready-to-run plans for 5K through marathon.**
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-3d5a80?style=flat-square)](LICENSE)
+[![Read online](https://img.shields.io/badge/read%20online-achilles.fit%2Fguides-2f7757?style=flat-square)](https://achilles.fit/guides)
+[![Plans](https://img.shields.io/badge/plans-12-3d5a80?style=flat-square)](#training-plans)
+[![Distances](https://img.shields.io/badge/5K-marathon-3d5a80?style=flat-square)](#training-plans)
+[![Levels](https://img.shields.io/badge/levels-beginner%20%C2%B7%20intermediate%20%C2%B7%20advanced-3d5a80?style=flat-square)](#training-plans)
+
+</div>
+
 
 > **Written by [Patrick Wiloak](./ABOUT.md).** 2:55:13 at the Boston Marathon, age 20.
 > 4:40 mile, 16:40 5K, 1:23 half. Five marathons.
