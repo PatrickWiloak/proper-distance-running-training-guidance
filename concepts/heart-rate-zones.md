@@ -1,6 +1,6 @@
 # Heart Rate Zones
 
-Training by heart rate helps you run at the right intensity for each workout. Understanding heart rate zones ensures you're easy runs are actually easy and your hard workouts are hard enough.
+Training by heart rate helps you run at the right intensity for each workout. Understanding heart rate zones ensures your easy runs are actually easy and your hard workouts are hard enough.
 
 ## Why Use Heart Rate?
 
