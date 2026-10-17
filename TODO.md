@@ -11,7 +11,7 @@ Working task list for **proper-distance-running-training-guidance**. Read this a
 - [ ] **Upload the social preview image.** A 1280x640 card is rendered at
       `/tmp/claude-1000/-home-plw-coding/4ffb6de8-198a-4962-8a8b-1f54e9ab4159/scratchpad/social/proper-distance-running-training-guidance-social-1280x640-31AUG2026.png`.
       Upload via **Settings → General → Social preview** (not exposed by the GitHub API).
-- [ ] **Commit and push the new `LICENSE` (CC BY 4.0) and the README header.** Until they land,
+- [x] ✅ 2026-10-17 (already pushed, commit 3ae26b2) **Commit and push the new `LICENSE` (CC BY 4.0) and the README header.** Until they land,
       GitHub shows the repo as unlicensed and the README carries no badges or branding. CC BY
       rather than MIT because this repo is 97k words of prose and zero code files.
 - [x] ~~Set GitHub topics~~ ✅ done 2026-08-31 (14 topics: running, marathon, vdot, heart-rate-zones, ...)
@@ -33,7 +33,7 @@ Working task list for **proper-distance-running-training-guidance**. Read this a
 ### 🟡 Polish
 
 - [ ] Single-source-of-truth problem: the author's VDOT figures now appear in `ABOUT.md`, `fundamentals/aerobic-system.md`, `concepts/easy-hard.md`, `systems/jack-daniels.md`, and `reference/vdot-and-pace-tables.md`. If one changes they all must. Consider a script that regenerates them.
-- [ ] Cross-check that every `**Next:**` link resolves now that the file set has grown.
+- [x] ✅ 2026-10-17 Cross-check that every `**Next:**` link resolves now that the file set has grown. `scripts/check_next_links.py`: 32 links, 0 broken. Note: 8 pages (templates 5K/10K/half/marathon intermediate, periodization-guide, heart-rate-zones-table, comparison) have no `**Next:**` line at all; left as is.
 - [ ] Decide whether the "Companion YouTube Series" is real. It was promised in the old README with no links for the life of the repo; the promise has been removed rather than left dangling. Re-add only if the videos exist.
 
 ---

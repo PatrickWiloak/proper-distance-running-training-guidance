@@ -35,7 +35,7 @@ templates for 5K through marathon. Documentation/content repo, not an applicatio
 - Markdown only; no build system, no source code.
 
 ## Common Commands
-None - edit markdown directly and commit with git.
+Edit markdown directly and commit with git. `python3 scripts/check_next_links.py` verifies every `**Next:**` link resolves (run before committing page changes).
 
 ## Project Structure
 ```
@@ -47,6 +47,7 @@ systems/        Jack Daniels, McMillan, comparison/how-to-choose
 templates/      5K/10K/half/marathon plans at beginner, intermediate, advanced + training log
 visuals/        periodization guide, HR-zones table
 reference/      VDOT and pace tables, glossary, FAQ
+scripts/        check_next_links.py (Next-link checker; not published)
 README.md       index + overview
 ```
 
