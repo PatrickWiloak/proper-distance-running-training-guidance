@@ -303,3 +303,52 @@ Free, open-source projects from the [Nobler Works](https://noblerworks.com/) tea
 </div>
 
 <!-- nobler-footer:end -->
+
+<!-- nobler-footer:start - shared block, kept in sync across Nobler Works public repos -->
+
+---
+
+<div align="center" markdown="1">
+
+## More from Nobler Works
+
+### Our products
+
+<a href="https://gitgood.dev/?utm_source=github&utm_medium=readme&utm_campaign=nobler-footer&utm_content=proper-distance-running-training-guidance"><img src="https://gitgood.dev/og-image.png" alt="gitGood.dev - train for the tech role, not just the interview" width="260"></a>
+<a href="https://semantix.chat/?utm_source=github&utm_medium=readme&utm_campaign=nobler-footer&utm_content=proper-distance-running-training-guidance"><img src="https://semantix.chat/og/home.png" alt="Semantix.chat - talk your way to fluency with an AI language tutor" width="260"></a>
+<a href="https://achilles.fit/?utm_source=github&utm_medium=readme&utm_campaign=nobler-footer&utm_content=proper-distance-running-training-guidance"><img src="https://achilles.fit/og/home.png" alt="Achilles.fit - adaptive training plans with an AI coach" width="260"></a>
+
+**[gitGood.dev](https://gitgood.dev/?utm_source=github&utm_medium=readme&utm_campaign=nobler-footer&utm_content=proper-distance-running-training-guidance)** - train for the tech role, not just the interview · **[Semantix.chat](https://semantix.chat/?utm_source=github&utm_medium=readme&utm_campaign=nobler-footer&utm_content=proper-distance-running-training-guidance)** - talk your way to fluency with an AI language tutor · **[Achilles.fit](https://achilles.fit/?utm_source=github&utm_medium=readme&utm_campaign=nobler-footer&utm_content=proper-distance-running-training-guidance)** - adaptive training plans with an AI coach
+
+### Free and open source
+
+Free, open-source projects from the [Nobler Works](https://noblerworks.com/) team. If one helps you, a ⭐ helps the next person find it.
+
+</div>
+
+| Project | What it is | |
+|---|---|---|
+| 🌍 **[War Games](https://github.com/NoblerWorks-HQ/WarGames)** | NATO, Russia, and China on one map, each commanded by an LLM | **[Website →](https://wargames.noblerworks.com/)** |
+| ⛏️ **[Minecraft Agentic Builder](https://github.com/NoblerWorks-HQ/minecraft-agentic)** | A crew of AI agents builds Minecraft worlds live in your browser | [Repo →](https://github.com/NoblerWorks-HQ/minecraft-agentic) |
+| 📚 **[AI Zero to Hero](https://github.com/PatrickWiloak/ai-zero-to-hero)** | Everything AI in one place: learn, use at work, build, govern, get hired - plus 156 landmark papers in plain language | **[Website →](https://ai.noblerworks.com/)** |
+| ☁️ **[Cloud Zero to Hero](https://github.com/PatrickWiloak/cloud-zero-to-hero)** | AWS, Azure, GCP, Kubernetes, DevOps and FinOps: 72 cert guides, concepts and labs | **[Website →](https://cloud.noblerworks.com/)** |
+| 🗄️ **[Data Zero to Hero](https://github.com/PatrickWiloak/data-zero-to-hero)** | Data engineering, databases, Snowflake, Databricks, Kafka: cert guides and paths | **[Website →](https://data.noblerworks.com/)** |
+| 🔐 **[Security Zero to Hero](https://github.com/PatrickWiloak/security-zero-to-hero)** | CISSP, Security+, cloud security, compliance and zero trust | **[Website →](https://security.noblerworks.com/)** |
+| 🧠 **[Bedrock RAG with S3 Vectors](https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial)** | Deploy document Q&A on AWS Bedrock in under 10 minutes (CDK or Terraform) | [Repo →](https://github.com/PatrickWiloak/bedrock-rag-s3-vectors-tutorial) |
+| 🛰️ **[IRONSIGHT](https://github.com/NoblerWorks-HQ/IRONSIGHT)** | Real-time OSINT command center - 50+ live intel feeds, no API keys | **[Website →](https://ironsight.noblerworks.com/)** |
+
+<div align="center" markdown="1">
+
+**Follow Nobler Works**
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://noblerworks.com/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Nobler_Works) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NoblerWorks) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@noblerworks) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@noblerworks)
+
+**Follow Patrick Wiloak**, founder
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricklukewilson) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PatrickWiloak) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@patrickwiloak) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/patrickwiloak) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://patricklukewilson.com)
+
+**Need something like this built for your domain? [Get in touch →](https://noblerworks.com/)**
+
+</div>
+
+<!-- nobler-footer:end -->
