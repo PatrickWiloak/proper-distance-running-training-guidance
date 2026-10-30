@@ -4,6 +4,9 @@ Working task list for **proper-distance-running-training-guidance**. Read this a
 
 ---
 
+## ✍️ Content refill (loop content-refill; nobler-os docs/LOOPS.md)
+- [ ] 2026-10-30 Pat: review 1 loop-drafted guide page(s) ("Pfitzinger marathon training (the Pfitzinger and Douglas plans)"), then `cd ~/coding/achilles/frontend-next && npm run sync:guides, commit, then deploy achilles (./scripts/deploy.sh) - pages: systems/pfitzinger.md`
+
 ## Open
 
 ### 🟠 Discoverability (added 2026-08-31)
