@@ -16,7 +16,7 @@ The shape of the method, in the order that matters:
 
 **Who it suits:** runners who can run six days a week, already have a base, and want a structured, highly prescriptive marathon-specific plan without ever doing a 20-miler. **Who it does not suit:** runners with a history of injury from high weekly volume, anyone who cannot fit six days of running, and anyone who needs the psychological reassurance of a long 20-plus mile run before race day.
 
-Compared with the other systems in this guide, Hansons is the most marathon-specific and the most prescriptive. It uses pace names that map onto the [Daniels paces](./jack-daniels.md), but it puts far more time at marathon pace than Daniels does, and it places its long run well below what [Pfitzinger](./pfitzinger.md) asks for.
+Compared with the other systems in this guide, Hansons is the most marathon-specific and the most prescriptive. It uses pace names that map onto the [Daniels paces](./jack-daniels.md), but it puts far more time at marathon pace than Daniels does, and it places its long run well below what [Pfitzinger](./pfitzinger.md) asks for.[2][3]
 
 ## Where the Method Comes From
 
@@ -56,7 +56,7 @@ SOS stands for "something of substance." These are the only hard days of the wee
 
 The plan has two phases of this day, and they change over the build.
 
-**Speed work (early weeks).** Intervals at roughly 5K pace, mostly 400m to 1200m reps, with short recoveries. The goal in the book is to build a base of speed and economy before the marathon-specific work takes over. At VDOT 50, 5K pace is about 6:25/mile (19:56 for the 5K, from [VDOT and Pace Tables](../reference/vdot-and-pace-tables.md)), and I pace is 6:16/mile.
+**Speed work (early weeks).** Intervals at roughly 5K to 10K pace, mostly 400m to 1200m reps, with short recoveries. The goal in the book is to build a base of speed and economy before the marathon-specific work takes over. At VDOT 50, 5K pace is about 6:25/mile (19:56 for the 5K, from [VDOT and Pace Tables](../reference/vdot-and-pace-tables.md)), and I pace is 6:16/mile.
 
 **Strength work (later weeks).** Longer intervals, from about a mile up to several miles, at a pace slightly faster than goal marathon pace. The book's guidance is roughly 10 seconds per mile faster than goal pace. At VDOT 50 with a goal marathon pace of 7:06/mile, that is around 6:56/mile, which sits close to Daniels' T pace of 6:51/mile. The recoveries are short jogs.
 
@@ -110,7 +110,7 @@ The book provides complete plans at beginner and advanced levels. The shape of a
 - **Saturday:** Easy run
 - **Sunday:** SOS - long run (up to 16 miles)
 
-The beginner plan is built around the same three SOS days with lower mileage. The advanced plan runs six days and puts more miles into each of them. Peak weekly mileage rises through the build, with the advanced plan reaching the same 55-70 mile range that [the comparison page](./comparison.md) lists. Follow the book for the exact distances; this page does not reproduce them.
+Both plans run six days a week. The beginner plan opens with a few weeks of easy running before the SOS days start and peaks lower; the advanced plan starts the SOS work sooner and puts more miles into each day. Peak weekly mileage rises through the build, with the advanced plan reaching the same 55-70 mile range that [the comparison page](./comparison.md) lists. Follow the book for the exact distances; this page does not reproduce them.
 
 **What to notice:** the hard days are never adjacent. After Thursday's tempo come two easy days, then Sunday's long run, then an easy Monday. The easy runs around each SOS day are not filler; they protect the quality of the SOS day.
 
