@@ -5,6 +5,7 @@ Working task list for **proper-distance-running-training-guidance**. Read this a
 ---
 
 ## ✍️ Content refill (loop content-refill; nobler-os docs/LOOPS.md)
+- [ ] 2026-10-31 Pat: review 1 loop-drafted guide page(s) ("Hansons marathon method"), then `cd ~/coding/achilles/frontend-next && npm run sync:guides; add each /guides/<slug> to `prerendered_paths` in achilles terraform/cloudfront.tf (prerenderRoutes.drift.test.ts fails otherwise); commit, push; ./scripts/deploy.sh frontend-next (no infra apply: that list feeds only the off-by-default Vite rollback router) - pages: systems/hansons.md`
 - [ ] 2026-10-30 Pat: review 1 loop-drafted guide page(s) ("Pfitzinger marathon training (the Pfitzinger and Douglas plans)"), then `cd ~/coding/achilles/frontend-next && npm run sync:guides, commit, then deploy achilles (./scripts/deploy.sh) - pages: systems/pfitzinger.md`
 
 ## Open
