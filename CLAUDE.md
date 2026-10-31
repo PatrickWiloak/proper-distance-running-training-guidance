@@ -11,8 +11,8 @@ templates for 5K through marathon. Documentation/content repo, not an applicatio
   published elsewhere.** Edit the markdown here, then re-vendor into the site.
 - **Live URL**: https://achilles.fit/guides - published as the /guides section of
   **achilles** (`~/coding/achilles`), which vendors these files with
-  `frontend/scripts/sync-guides.mjs` (`cd frontend && npm run sync:guides`).
-  ⚠️ **Editing `achilles/frontend/src/content/guides/` directly is wasted work** -
+  `frontend-next/scripts/sync-guides.mjs` (`cd frontend-next && npm run sync:guides`).
+  ⚠️ **Editing `achilles/frontend-next/content/guides/` directly is wasted work** -
   the next sync overwrites it. Change it here.
   ⚠️ **A new file only reaches the site after a re-vendor**, and a new *directory*
   also needs a `SECTIONS` entry in that script or its pages are silently skipped.
