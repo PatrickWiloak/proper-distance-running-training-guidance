@@ -6,7 +6,7 @@ Working task list for **proper-distance-running-training-guidance**. Read this a
 
 ## ✍️ Content refill (loop content-refill; nobler-os docs/LOOPS.md)
 - [ ] 2026-10-31 Pat: `systems/hansons.md` reviewed + landed 2026-10-31; re-vendor: `cd ~/coding/achilles/frontend-next && npm run sync:guides`, add its /guides path to `prerendered_paths` (terraform/cloudfront.tf), push, `./scripts/deploy.sh frontend-next`.
-- [ ] 2026-10-30 Pat: review 1 loop-drafted guide page(s) ("Pfitzinger marathon training (the Pfitzinger and Douglas plans)"), then `cd ~/coding/achilles/frontend-next && npm run sync:guides, commit, then deploy achilles (./scripts/deploy.sh) - pages: systems/pfitzinger.md`
+- [x] ~~2026-10-30 review + vendor `systems/pfitzinger.md`~~ ✅ live at achilles.fit/guides/pfitzinger (achilles 9db2931; checked 200 on 2026-10-31).
 
 ## Open
 
