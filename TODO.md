@@ -5,6 +5,7 @@ Working task list for **proper-distance-running-training-guidance**. Read this a
 ---
 
 ## ✍️ Content refill (loop content-refill; nobler-os docs/LOOPS.md)
+- [ ] 2026-11-01 Pat: review 1 loop-drafted guide page(s) ("Running in heat, humidity and altitude: pace adjustment and acclimatization"), then `cd ~/coding/achilles/frontend-next && npm run sync:guides; add each /guides/<slug> to `prerendered_paths` in achilles terraform/cloudfront.tf (prerenderRoutes.drift.test.ts fails otherwise); commit, push; ./scripts/deploy.sh frontend-next (no infra apply: that list feeds only the off-by-default Vite rollback router) - pages: fundamentals/heat-humidity-altitude.md`
 - [ ] 2026-10-31 Pat: `systems/hansons.md` reviewed + landed 2026-10-31; re-vendor: `cd ~/coding/achilles/frontend-next && npm run sync:guides`, add its /guides path to `prerendered_paths` (terraform/cloudfront.tf), push, `./scripts/deploy.sh frontend-next`.
 - [x] ~~2026-10-30 review + vendor `systems/pfitzinger.md`~~ ✅ live at achilles.fit/guides/pfitzinger (achilles 9db2931; checked 200 on 2026-10-31).
 
