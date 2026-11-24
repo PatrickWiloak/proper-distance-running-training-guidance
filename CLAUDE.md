@@ -3,7 +3,7 @@
 ## Overview
 A comprehensive markdown guide to distance-running fundamentals - the principles behind
 effective training (aerobic base, recovery, periodization, lactate threshold, HR zones),
-established training systems (Jack Daniels, McMillan), and ready-to-use training plan
+established training systems (Jack Daniels, McMillan, Pfitzinger, Hansons), and ready-to-use training plan
 templates for 5K through marathon. Documentation/content repo, not an application.
 
 ## Environment
@@ -43,7 +43,7 @@ ABOUT.md        author credentials (Boston 2013 2:55:13, PR ladder) + the VDOT-g
 fundamentals/   principles, workout types, aerobic system, recovery, progression,
                 strength training, injury prevention, fueling and nutrition
 concepts/       HR zones, VO2max/economy, lactate threshold, easy/hard rule, race-day execution
-systems/        Jack Daniels, McMillan, comparison/how-to-choose
+systems/        Jack Daniels, McMillan, Pfitzinger, Hansons, comparison/how-to-choose
 templates/      5K/10K/half/marathon plans at beginner, intermediate, advanced + training log
 visuals/        periodization guide, HR-zones table
 reference/      VDOT and pace tables, glossary, FAQ

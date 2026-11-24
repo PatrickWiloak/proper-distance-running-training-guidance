@@ -5,8 +5,8 @@ Working task list for **proper-distance-running-training-guidance**. Read this a
 ---
 
 ## ✍️ Content refill (loop content-refill; nobler-os docs/LOOPS.md)
-- [ ] 2026-11-15 Pat: review 1 loop-drafted guide page(s) ("Running form and cadence, and how thin the evidence for form coaching is"), then `cd ~/coding/achilles/frontend-next && npm run sync:guides; add each /guides/<slug> to `prerendered_paths` in achilles terraform/cloudfront.tf (prerenderRoutes.drift.test.ts fails otherwise); commit, push; ./scripts/deploy.sh frontend-next (no infra apply: that list feeds only the off-by-default Vite rollback router) - pages: concepts/running-form-and-cadence.md`
-- [ ] 2026-11-15 Pat: review 1 loop-drafted guide page(s) ("Running in heat, humidity and altitude: pace adjustment and acclimatization"), then `cd ~/coding/achilles/frontend-next && npm run sync:guides; add each /guides/<slug> to `prerendered_paths` in achilles terraform/cloudfront.tf (prerenderRoutes.drift.test.ts fails otherwise); commit, push; ./scripts/deploy.sh frontend-next (no infra apply: that list feeds only the off-by-default Vite rollback router) - pages: fundamentals/heat-humidity-altitude.md` ✏️ 2026-11-08 re-dated in triage.
+- [ ] 2026-11-15 Pat: review 1 loop-drafted guide page(s) ("Running form and cadence, and how thin the evidence for form coaching is"), then `cd ~/coding/achilles/frontend-next && npm run sync:guides`; add each /guides/<slug> to prerendered_paths in achilles terraform/cloudfront.tf (prerenderRoutes.drift.test.ts fails otherwise); commit, push; from ~/coding/achilles `./scripts/deploy.sh frontend-next` (no infra apply: that list feeds only the off-by-default Vite rollback router) - pages: concepts/running-form-and-cadence.md
+- [ ] 2026-11-15 Pat: review 1 loop-drafted guide page(s) ("Running in heat, humidity and altitude: pace adjustment and acclimatization"), then `cd ~/coding/achilles/frontend-next && npm run sync:guides`; add each /guides/<slug> to prerendered_paths in achilles terraform/cloudfront.tf (prerenderRoutes.drift.test.ts fails otherwise); commit, push; from ~/coding/achilles `./scripts/deploy.sh frontend-next` (no infra apply: that list feeds only the off-by-default Vite rollback router) - pages: fundamentals/heat-humidity-altitude.md ✏️ 2026-11-08 re-dated in triage.
 - [x] 2026-10-31 Pat: `systems/hansons.md` reviewed + landed 2026-10-31; re-vendor: `cd ~/coding/achilles/frontend-next && npm run sync:guides`, add its /guides path to `prerendered_paths` (terraform/cloudfront.tf), push, `./scripts/deploy.sh frontend-next`. ✅ 2026-11-08 already vendored and live: achilles.fit/guides/hansons returns 200, in prerendered_paths.
 - [x] ~~2026-10-30 review + vendor `systems/pfitzinger.md`~~ ✅ live at achilles.fit/guides/pfitzinger (achilles 9db2931; checked 200 on 2026-10-31).
 
@@ -31,10 +31,10 @@ Working task list for **proper-distance-running-training-guidance**. Read this a
 ### 🟠 Content
 
 - [ ] Add a **masters/aging** page (training past 40: recovery, strength, realistic expectations).
-- [ ] Add a **heat, humidity, and altitude** page (pace adjustment, acclimatization).
-- [ ] Add a **running form and cadence** page - and be honest that the evidence for form coaching is thinner than the internet suggests.
+- [x] ✅ 2026-11-24 Add a **heat, humidity, and altitude** page - drafted (fundamentals/heat-humidity-altitude.md); review tracked under Content refill above.
+- [x] ✅ 2026-11-24 Add a **running form and cadence** page - drafted (concepts/running-form-and-cadence.md); review tracked under Content refill above.
 - [ ] Consider a **women's-specific** section (menstrual cycle and training, RED-S, bone health). Needs real sourcing or it should not ship.
-- [ ] `systems/` covers Daniels and McMillan. Consider adding **Pfitzinger** (the standard for serious marathoners) and **Hansons**.
+- [x] ✅ 2026-11-24 (done 2026-10-31) **Pfitzinger** and **Hansons** added to `systems/` and live at achilles.fit/guides.
 
 ### 🟡 Polish
 
